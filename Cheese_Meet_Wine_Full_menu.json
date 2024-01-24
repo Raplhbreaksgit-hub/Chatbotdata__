@@ -1,0 +1,136 @@
+{
+    "restaurant": "CHEESE MEET WINE",
+    "Menu": {
+        "MAIN": {
+            "signature_boards": [
+                {
+                  "name": "Rustic Farmer's Board",
+                  "price": 48,
+                  "items": [
+                    "Country truffle pâté",
+                    "Bourbon & Bacon Salami",
+                    "Aged Gouda",
+                    "Harbison Spruce Brie",
+                    "Midnight Moon Cheese"
+                  ]
+                },
+                {
+                  "name": "Chef's Board",
+                  "price": 58,
+                  "items": [
+                    "The Italian Wich",
+                    "Prosciutto di Parma 24-month aged",
+                    "Cabot Clothbound Aged Cheddar",
+                    "Bayley Hazen Blue",
+                    "Fermín Jamón Serrano"
+                  ]
+                }
+              ],
+              "charcuterie_and_cheese": {
+                "charcuterie": [
+                  {"name": "Sweet Soppressata", "price": 8, "origin": "New York, NY"},
+                  {"name": "Chorizo Dry Salame", "price": 9, "origin": "Oceanside, CA"},
+                  {"name": "Mortadella with Black Truffle", "price": 7, "origin": "Bologna, Italy"},
+                  {"name": "Hot Capicola", "price": 7, "origin": "New York, NY"},
+                  {"name": "Bourbon & Bacon Salami", "price": 7, "origin": "Waltham, MA"},
+                  {"name": "Prosciutto di Parma 24-month aged", "price": 16, "origin": "Langhirano-Parma, Italy"},
+                  {"name": "Bresaola", "price": 9, "origin": "Chicago, IL"},
+                  {"name": "Fermín Jamón Serrano", "price": 9, "origin": "Spain"}
+                ],
+                "cheese": [
+                  {"name": "Bayley Hazen Blue* (c)(R)", "price": 8, "origin": "Greensboro, VT"},
+                  {"name": "Aged Gouda (c)(P)", "price": 7, "origin": "Holland, Netherlands"},
+                  {"name": "Humboldt Fog Goat (g)(P)", "price": 9, "origin": "Arcata, CA"},
+                  {"name": "Harbison Spruce Brie", "price": 9, "origin": "Greensboro, VT"},
+                  {"name": "Manchego 6-month aged (s)(P)", "price": 8, "origin": "La Mancha, Spain"},
+                  {"name": "Cabot Clothbound Aged Cheddar (c)(P)", "price": 9, "origin": "Greensboro, VT"},
+                  {"name": "Parmigiano Reggiano Wheel 18-month aged (c)(P)", "price": 11, "origin": "Parma, Italy"},
+                  {"name": "Midnight Moon Cheese (g)(P)", "price": 9, "origin": "Arcata, CA"}
+                ]
+              },
+              "shareables": [
+                {"name": "Marinated Olives", "price": 8, "description": "citrus, parsley, chili flake"},
+                {"name": "Whipped Feta", "price": 13, "description": "roasted tomato, sumac, dry cured black olives"},
+                {"name": "Baked Brie", "price": 24, "description": "shaved apple, fig jam, toasted walnuts, baguette"},
+                {"name": "Hummus", "price": 13, "description": "warm naan bread, roasted garlic, local feta, crispy chickpea"},
+                {"name": "Traditional Grilled Cheese", "price": 17, "description": "cheddar, muenster, swiss, Dijon mustard"},
+                {"name": "Truffle Grilled Cheese", "price": 23, "description": "gruyère, caramelized onions, pecorino tartufo"},
+                {"name": "The Italian Wich", "price": 24, "description": "hot capicola, sweet soppressata, mortadella, hot pepper spread, parmesan aioli, pickled onion, tomato, sesame loaf"},
+                {"name": "Classic Fondue", "price": 39, "description": "Traditional Alpine style with emmental and gruyère cheese, white wine, garlic, kirsch and nutmeg. Served with apples, baguette, gherkins and potato"}
+              ],
+              "raw_bar": [
+                {"name": "Half Dozen Local Oysters", "price": 26, "description": "Chef's selection of local oysters, spiced cocktail sauce, mignonette"},
+                {"name": "Classic Shrimp Cocktail", "price": 29, "description": "jumbo prawns, spiced cocktail sauce, lemon"}
+              ]
+            },
+            "BEVERAGE": {
+                "by_the_glass": {
+                  "sparkling": [
+                    {"name": "Perrier-Jouët, Grand Brut, Épernay, France NV", "price": {"glass": 24, "bottle": 94}},
+                    {"name": "Cremant d’Alsace, Pierre Sparr, Brut Rosé, Alsace, France, NV", "price": {"glass": 16, "bottle": 62}},
+                    {"name": "Flor, Prosecco, Veneto, Italy NV", "price": {"glass": 14, "bottle": 54}}
+                  ],
+                  "whites": [
+                    {"name": "Albariño, Paco & Lola, Rias Baixas, Spain 2022", "price": {"glass": 15, "bottle": 58}},
+                    {"name": "Pinot Grigio, Jermann, Friuli, Italy 2022", "price": {"glass": 16, "bottle": 62}},
+                    {"name": "Sauvignon Blanc, Mulderbosch, South Africa 2021", "price": {"glass": 16, "bottle": 62}},
+                    {"name": "Chardonnay, Stag’s Leap Wine Cellars, Karia, Napa Valley, California 2021", "price": {"glass": 21, "bottle": 82}},
+                    {"name": "Sauvignon Blanc, Cloudy Bay, Marlborough, New Zealand, 2022", "price": {"glass": 28, "bottle": 110}},
+                    {"name": "Friulano, Scarpetta,’Frico’, Friuli, Italy, 2017", "price": {"glass": 24, "bottle": 94}},
+                    {"name": "Riesling, Forge Cellars, Breakneck Creek, Seneca Lake, NY 2020", "price": {"glass": 20, "bottle": 78}}
+                  ],
+                  "rosé": [
+                    {"name": "Pinot Noir, Flowers, Sonoma Coast, California 2022", "price": {"glass": 20, "bottle": 78}}
+                  ],
+                  "reds": [
+                    {"name": "Gigondas, Domaine Brusset, Tradition Le Grand Montmirail, Rhône, France 2020", "price": {"glass": 23, "bottle": 90}},
+                    {"name": "Pinot Noir, Holloran ‘Stafford Hill’ Willamette Valley, Oregon 2022", "price": {"glass": 15, "bottle": 58}},
+                    {"name": "Cabernet Sauvignon, Kith & Kin, Napa Valley, California 2021", "price": {"glass": 23, "bottle": 90}},
+                    {"name": "Zinfandel, Ridge, 'Three Valleys', Sonoma County, California 2021", "price": {"glass": 21, "bottle": 82}}
+                  ],
+                  "sweet_and_fortified": [
+                    {"name": "Fino Sherry, Valdespino ‘Inocente’ Macharnudo Vineyard, Spain NV", "price": {"3oz": 13}}
+                  ]
+                },
+                "half_bottle": {
+                  "sparkling": [
+                    {"name": "Blanc de Blancs, Delamotte, Le Mesnil sur Oger, France NV", "price": 90},
+                    {"name": "Brut, Laurent-Perrier 'La Cuvee', France NV", "price": 48}
+                  ],
+                  "white_wines": [
+                    {"name": "Chardonnay, Kosta Browne, 'One Sixteen', Russian River Valley, California 2016", "price": 105}
+                  ],
+                  "red_wines": [
+                    {"name": "Pinot Noir, Patz & Hall, Sonoma Coast, California 2016", "price": 54},
+                    {"name": "Super Tuscan, Antinori 'Tignanello' Tuscany, Italy 2019", "price": 165}
+                  ]
+                },
+                "reserved_list": {
+                  "white_wines": [
+                    {"name": "Sancerre, Daniel Crochet, Cuvée Prestige, Loire, France 2021", "price": {"glass": 35, "bottle": 138}}
+                  ],
+                  "red_wines": [
+                    {"name": "Tempranillo, Bodegas Muga, Selección Especial, Rioja, Spain 2018", "price": {"glass": 33, "bottle": 130}},
+                    {"name": "Merlot, Duckhorn, Napa Valley, California 2020", "price": {"glass": 30, "bottle": 118}},
+                    {"name": "Red Blend, The Prisoner, Napa, California 2021", "price": {"glass": 31, "bottle": 124}}
+                  ]
+                },
+                "beer_on_draft": [
+                  {"name": "Night Shift 'Nite Lite', Light Lager, Everett, MA", "price": 10},
+                  {"name": "Maine Beer Co. 'Lunch IPA', Freeport, ME", "price": 13},
+                  {"name": "Ipswich Ale Brewery 'Ipswich Oatmeal Stout', Ipswich, MA", "price": 11},
+                  {"name": "Down East Cider Co. 'Seasonal Offering', Boston, MA", "price": 11}
+                ]
+              }    
+          },
+          "contact": {
+            "phone": "(857) 770-3463",
+            "location": "1 Broadway, Everett, MA 02149"
+          },
+          "hours": {
+            "Thursday": {"open": "4 p.m.", "close": "10 p.m."},
+            "Friday": {"open": "4 p.m.", "close": "11 p.m."},
+            "Saturday": {"open": "4 p.m.", "close": "11 p.m."},
+            "Sunday": {"open": "4 p.m.", "close": "10 p.m."}  
+        }
+    }

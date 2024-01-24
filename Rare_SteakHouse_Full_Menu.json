@@ -1,0 +1,569 @@
+{
+    "restaurant": "RARE STEAKHOUSE",
+    "Menu": {
+        "MAIN": {
+      "CAVIAR_SERVICE": {
+        "description": "Traditional trimmings, brioche toast, blinis",
+        "items": [
+          {
+            "name": "Grand Reserve Ossetra",
+            "price": 225,
+            "quantity": "30 gram"
+          }
+        ]
+      },
+      "CHILLED_SEAFOOD_AND_RAW_BAR": {
+        "items": [
+          {
+            "name": "New England Oysters",
+            "description": "Chef’s selection of local oysters from Maine to Cape Cod",
+            "price": 28,
+            "quantity": "Half Dozen"
+          },
+          {
+            "name": "Colossal Shrimp Cocktail",
+            "description": "Poached in court bouillon, spiced cocktail sauce, tomatillo salsa verde",
+            "price": 29
+          },
+          {
+            "name": "Yellowfin Tuna Sashimi",
+            "description": "Tomato yuzu relish, wasabi vinaigrette, crispy onions",
+            "price": 32
+          },
+          {
+            "name": "Hamachi Tart",
+            "description": "Green apple, balsamic pearls, shortbread",
+            "price": 32
+          },
+          {
+            "name": "Grande Seafood",
+            "description": "Maine lobster, eight New England oysters, six little neck clams, six colossal shrimp, Alaskan king crab, seasonal crudo (serves four)",
+            "price": 245
+          },
+          {
+            "name": "Petite Tower",
+            "description": "Half Maine lobster, four New England oysters, four little neck clams, three colossal shrimp, Alaskan king crab, seasonal crudo (serves two)",
+            "price": 135
+          }
+        ]
+      },
+      "STARTERS_SOUPS_AND_SALADS": {
+        "items": [
+          {
+            "name": "Rare Chopped Salad",
+            "description": "Avocado, crispy potatoes, baby romaine, roma tomatoes, roasted artichokes, Dijon vinaigrette",
+            "price": 23
+          },
+          {
+            "name": "Steakhouse Wedge",
+            "description": "Baby iceberg, black pepper bacon, cherry tomato, buttermilk blue cheese, crispy shallots",
+            "price": 24
+          },
+          {
+            "name": "Little Gem Caesar",
+            "description": "White anchovies, parmesan croutons, classic caesar dressing",
+            "price": 23
+          },
+          {
+            "name": "Roasted Beet Salad",
+            "description": "Mint, Humbolt Fog goat cheese, pistachio, basil, citrus",
+            "price": 25
+          },
+          {
+            "name": "Apple Salad",
+            "description": "Pink ladies, honeycrisp, candied pecans, sherry, parmesan",
+            "price": 23
+          },
+          {
+            "name": "Roasted Maine Lobster Bisque",
+            "description": "Lobster tarragon salad, chili oil",
+            "price": 24
+          },
+          {
+            "name": "French Onion Soup",
+            "description": "Caramelized onion, aged sherry, gruyère au gratin crouton",
+            "price": 19
+          },
+          {
+            "name": "Wagyu Steak Tartare",
+            "description": "Snake River Farms strip loin, confit shallots, parmesan cream",
+            "price": 35
+          },
+          {
+            "name": "Bone Marrow",
+            "description": "Spicy chimichurri, brioche toast points, pickled red onions",
+            "price": 28
+          },
+          {
+            "name": "Prime Cheesesteak Bites",
+            "description": "Caramelized onions, aged provolone cheese sauce, black truffle brioche",
+            "price": 26
+          },
+          {
+            "name": "Jumbo Lump Crab Cake",
+            "description": "Asian pear relish, yuzu aioli, shiso",
+            "price": 31
+          },
+          {
+            "name": "Mini Maine Lobster Rolls",
+            "description": "Maine lobster, celery, tarragon aioli, toasted brioche roll",
+            "price": 39
+          }
+        ]
+      },
+      "MAIN_COURSES": {
+        "items": [
+          {
+            "name": "Pumpkin Ravioli",
+            "description": "Sage, parmesan, thyme brown butter",
+            "price": 42
+          },
+          {
+            "name": "Ora King Salmon",
+            "description": "Maple miso glaze, ginger bok choy, roasted shiitake mushrooms, charred scallion",
+            "price": 51
+          },
+          {
+            "name": "Seared Scallops",
+            "description": "Celery root, caviar beurre blanc",
+            "price": 60
+          },
+          {
+            "name": "Loup De Mer",
+            "description": "Whole fish, coconut, garlic, shrimp, pickled fresno, cilantro",
+            "price": 48
+          },
+          {
+            "name": "Broiled Maine Lobster",
+            "description": "Two and one-half pounds Maine lobster, lemon herb butter, herb salad",
+            "price": "MKT"
+          },
+          {
+            "name": "Whole Roasted Chicken",
+            "description": "Chicken jus, wild mushrooms, roasted fingerlings",
+            "price": 54
+          },
+          {
+            "name": "Grilled Lamb Chops",
+            "description": "Baby eggplant, snow peas, chili mint vinaigrette",
+            "price": 62
+          }
+        ]
+      },
+      "CHARRED_PRIME_CUT_STEAKS_AND_CHOPS": {
+        "items": [
+          {
+            "name": "Filet Mignon",
+            "description": "8 oz.",
+            "price": 70
+          },
+          {
+            "name": "Bone-In Filet Mignon",
+            "description": "12 oz.",
+            "price": 92
+          },
+          {
+            "name": "Dry Aged Bone-In New York",
+            "description": "18 oz.",
+            "price": 87
+          },
+          {
+            "name": "Bone-In Cowboy Rib Eye",
+            "description": "24 oz.",
+            "price": 126
+          },
+          {
+            "name": "Boneless New York",
+            "description": "14 oz.",
+            "price": 78
+          },
+          {
+            "name": "Boneless Grass-Fed Rib Eye",
+            "description": "16 oz.",
+            "price": 80
+          },
+          {
+            "name": "Surf & Turf",
+            "description": "4 oz. filet & half roasted Maine lobster",
+            "price": 110
+          },
+          {
+            "name": "DOUBLE CUT Dry Aged Long Bone Tomahawk",
+            "description": "40 oz.",
+            "price": 195
+          }
+        ]
+      },
+      "SAUCES": {
+        "items": [
+          "Béarnaise",
+          "Chimichurri",
+          "Au Poivre",
+          "Rare Steak Sauce"
+        ],
+        "add_to_steak": {
+          "Colossal Shrimp Scampi": 26,
+          "Roasted Maine Lobster": "MKT",
+          "Black Truffle Butter": 11,
+          "Alaskan Red King Crab Oscar": "MKT"
+        }
+      },
+      "SIDE_DISHES": {
+        "items": [
+          {
+            "name": "Yukon Gold Potato Purée",
+            "price": 16
+          },
+          {
+            "name": "Butternut Squash",
+            "price": 17,
+            "description": "Delicata, dates, pepitas, buttered leeks"
+          },
+          {
+            "name": "Roasted Fingerling Potatoes",
+            "price": 16,
+            "description": "Garlic aioli, scallions"
+          },
+          {
+            "name": "Roasted Forest Mushrooms",
+            "price": 18,
+            "description": "Sherry herb butter"
+          },
+          {
+            "name": "Rare French Fries",
+            "price": 15
+          },
+          {
+            "name": "Roasted Brussels Sprouts",
+            "price": 17,
+            "description": "Bacon lardon, cippolini onions"
+          },
+          {
+            "name": "Creamed Spinach",
+            "price": 17
+          },
+          {
+            "name": "Rare Side Flight",
+            "price": 38,
+            "description": "Choose three: potato purée, mac & cheese, butternut squash, forest mushrooms, creamed spinach, Brussels sprouts"
+          },
+          {
+            "name": "Baked Mac & Cheese",
+            "price": 17,
+            "add_lobster": 19
+          },
+          {
+            "name": "Loaded Baked Potato",
+            "price": 19,
+            "description": "Bacon, cheddar, sour cream, butter, chives"
+          },
+          {
+            "name": "Fire Roasted Asparagus",
+            "price": 19
+          },
+          {
+            "name": "Roasted Caulini",
+            "price": 18,
+            "description": "Bacon vinaigrette"
+          }
+        ]
+      },
+      "JAPANESE_WAGYU": {
+        "items": [
+          {
+            "source": "KOBE, HYOGO PREFECTURE",
+            "cuts": [
+              {
+                "name": "Tenderloin",
+                "price": 325,
+                "minimum_quantity": "4 oz.",
+                "additional_price_per_ounce": 78
+              },
+              {
+                "name": "New York Strip",
+                "price": 325,
+                "minimum_quantity": "4 oz.",
+                "additional_price_per_ounce": 78
+              },
+              {
+                "name": "Rib Eye",
+                "price": 325,
+                "minimum_quantity": "4 oz.",
+                "additional_price_per_ounce": 78
+              }
+            ]
+          },
+          {
+            "source": "KUSUNOKI FARM, KAGOSHIMA PREFECTURE",
+            "cuts": [
+              {
+                "name": "New York Strip",
+                "price": 200,
+                "minimum_quantity": "4 oz.",
+                "additional_price_per_ounce": 50
+              }
+            ]
+          }
+        ]
+      },
+      "DOMESTIC_WAGYU": {
+        "items": [
+          {
+            "name": "Dry Aged Snake River Farms Gold Grade New York Strip",
+            "description": "10 oz., deeply marbled with a wonderful complexity and subtle sweetness",
+            "price": 130
+          }
+        ]
+      }
+    },
+    "DESSERT": {
+        "items": [
+          {
+            "name": "Apple Pecan Cheesecake",
+            "price": 18,
+            "description": "Caramelized pecans, poached apples, caramel, cream cheese mousse"
+          },
+          {
+            "name": "Chocolate Orange Cake",
+            "price": 18,
+            "description": "Chocolate cake, dark chocolate ganache, chocolate speculoos crumble, orange vanilla compote"
+          },
+          {
+            "name": "Lemon Olive Oil Cake",
+            "price": 17,
+            "description": "Basil almond cake, white chocolate olive oil mousse, lemon coulis"
+          },
+          {
+            "name": "Citrus Rum Baba",
+            "price": 25,
+            "description": "Citrus soaked rum baba, exotic fruit compote, whipped white chocolate ganache"
+          },
+          {
+            "name": "Baby Banana",
+            "price": 18,
+            "description": "Hazelnut cake, banana cream, hazelnut crunch, brûléed banana, caramel, hazelnut ice cream"
+          },
+          {
+            "name": "The Coffee Bean",
+            "price": 18,
+            "description": "Dark chocolate mousse, coffee crunch, raspberry ganache, Kahlúa gems, raspberry coulis, raspberry sorbet, dates gel"
+          },
+          {
+            "name": "Whiskey Cigar",
+            "price": 18,
+            "description": "Jameson Whiskey Cremeux, dried apricot crunch, vanilla ice cream"
+          }
+        ],
+        "DESSERT_COCKTAILS": [
+          {
+            "name": "Buena Vista",
+            "price": 18,
+            "description": "Carajillo | Vanilla vodka, Kahlúa Blonde Roast, Licor 43, Madagascar vanilla, fresh espresso"
+          },
+          {
+            "name": "Pandora’s Box",
+            "price": 18,
+            "description": "Peaches & Cream | Cîroc peach vodka, French peach liqueur, Madagascar vanilla, Buffalo Trace bourbon, whipped cream"
+          }
+        ],
+        "DESSERT_WINES": {
+          "BY_THE_GLASS": [
+            {
+              "name": "Cockburn 10yr Tawny Port",
+              "price": 13
+            },
+            {
+              "name": "Fonseca 20yr Tawny Port",
+              "price": 16
+            },
+            {
+              "name": "Blandy's 1977 Malmsey Madeira",
+              "price": 103
+            }
+          ],
+          "HALF_BOTTLE": [
+            {
+              "name": "Château D’Yquem 2005 Premier Cru Superieur, Sauternes, France",
+              "price": 795
+            },
+            {
+              "name": "Croft 2000 Vintage Port",
+              "price": 85
+            },
+            {
+              "name": "Donnafugatua 2017 Ben Rye, Passito de Pantelleria, Italy",
+              "price": 110
+            },
+            {
+              "name": "Kracher 2015 Beerenauslese Cuvée, Neusiedlersee, Burgenland, Austria",
+              "price": 90
+            }
+          ]
+        }
+      },
+      "BEVERAGE": {
+        "SPECIALTY COCKTAILS": {
+          "Lion's Share": {
+            "name": "Lion's Share",
+            "price": 20,
+            "description": "Spicy Margarita // Casamigos Reposado tequila, poblano chile, pink guava, habanero spiced agave, fresh lime"
+          },
+          "Secret Cinema": {
+            "name": "Secret Cinema",
+            "price": { "for_one": 18, "for_two": 36 },
+            "description": "Smoked Rum Old Fashioned // El Dorado 12 Year Old Rum, Bacardi Reserva Ocho, Meletti, chai spice, chocolate liqueur"
+          },
+          "Pink Moon": {
+            "name": "Pink Moon",
+            "price": { "for_one": 18, "for_two": 36 },
+            "description": "Rose Negroni // Roku Gin, Luxardo Bitter Bianco, Giffard Pamplemousse liqueur, Lillet Rose"
+          },
+          "Zephyr": {
+            "name": "Zephyr",
+            "price": 20,
+            "description": "Summertime Sour // Grey Goose Essences Strawberry & Lemongrass, Giffard Rhubarb Liqueur, strawberry, rhubarb, lemon, cham-feign foam"
+          },
+          "Skyfall": {
+            "name": "Skyfall",
+            "price": 18,
+            "description": "Hot & Dirty Martini // Belvedere vodka, Fresno chile rinsed vermouth, olive brine"
+          }
+        },
+        "SEASONAL SIGNATURE COCKTAILS": {
+          "Northern Dream": {
+            "name": "Northern Dream",
+            "price": 20,
+            "description": "Encore Maker’s Mark Private Selection 2022, chamomile, lemon, egg white"
+          },
+          "Royal Daisy": {
+            "name": "Royal Daisy",
+            "price": 18,
+            "description": "'Encore Expression' Patrón Reposado 2022, watermelon, habanero spiced agave, lime"
+          }
+        },
+        "DESSERT COCKTAILS": {
+          "Buena Vista": {
+            "name": "Buena Vista",
+            "price": 18,
+            "description": "Carajillo // Vanilla vodka, Kahlua Blonde Roast, Licor 43, Madagascar vanilla, fresh espresso"
+          },
+          "Pandora’s Box": {
+            "name": "Pandora’s Box",
+            "price": 18,
+            "description": "Peaches & Cream // Cîroc peach vodka, French peach liqueur, Madagascar vanilla, Buffalo Trace bourbon, whipped cream"
+          }
+        },
+        "MOCKTAILS": {
+          "Passion Project": {
+            "name": "Passion Project",
+            "price": 12,
+            "description": "Dhōs Orange, lime, agave, passionfruit"
+          },
+          "BUTTERFLY EFFECT": {
+            "name": "BUTTERFLY EFFECT",
+            "price": 12,
+            "description": "Dhōs Gin Free, butterfly flower, lemon, cucumber"
+          }
+        },
+        "WINES BY THE GLASS": {
+            "SPARKLING": [
+              {"name": "Blanc de Blancs, Schramsberg, Brut, Napa Valley, California 2015", "price": 25},
+              {"name": "Champagne, Perrier-Jouët Grand Brut, Épernay, France NV", "price": 24},
+              {"name": "Champagne, Krug Grande Cuvée Brut, Reims, France NV", "price": 75}
+            ],
+            "WHITE": [
+              {"name": "Albariño, Paco Y Lola, Rias Baixas, Spain 2020", "price": 14},
+              {"name": "Chardonnay, Failla, Sonoma Coast, California 2019", "price": 28},
+              {"name": "Chardonnay, Stag's Leap Wine Cellars, Karia, Napa Valley, California 2017", "price": 21},
+              {"name": "Pinot Grigio, Jermann, Friuli, Italy 2020", "price": 16},
+              {"name": "Riesling, Willi Haag, Brauneberger Juffer, Kabinett, Mosel, Germany 2019", "price": 16},
+              {"name": "Sancerre, Domaine Daniel Crochet, Loire, France 2020", "price": 20},
+              {"name": "Sauvignon Blanc, Long Meadow Ranch, Rutherford, Napa, California 2020", "price": 18}
+            ],
+            "ROSÉ": [
+              {"name": "Pinot Noir, Flowers, Sonoma Coast, California 2020", "price": 20}
+            ],
+            "RED": [
+              {"name": "Cabernet Sauvignon, Jordan, Alexander Valley, California 2018", "price": 36},
+              {"name": "Cabernet Sauvignon, Round Pond Estate, Kith & Kin, Napa Valley, California 2018", "price": 23},
+              {"name": "Gigondas, Domaine Brusset, Tradition le Grand Montmirail, France 2020", "price": 23},
+              {"name": "Pinot Noir, Gran Moraine, Yamhill-Carlton, Oregon 2018", "price": 26},
+              {"name": "Tempranillo, CVNE, Imperial Reserva, Rioja, Spain 2017", "price": 31},
+              {"name": "Red Blend, The Prisoner, Napa Valley, California 2019", "price": 31}
+            ],
+            "DESSERT WINES": [
+              {"name": "Cockburn 10yr Tawny Port", "price": 13}
+            ]
+          },
+          "SCOTCH WHISKY": [
+            {"name": "Ardbeg 10 Years Old", "price": 16},
+            {"name": "Bruichladdich Octomore", "price": 60},
+            {"name": "Highland Park 25 Year Old", "price": 115},
+            {"name": "Highland Park 30 Year Old", "price": 175},
+            {"name": "Highland Park Viking Pride 18 Year Old", "price": 38},
+            {"name": "Lagavulin 16 Year Old", "price": 40},
+            {"name": "Laphroaig 10 Years", "price": 16},
+            {"name": "Laphroaig 30 Years", "price": 220},
+            {"name": "Oban 14 Years Old", "price": 26},
+            {"name": "The Balvenie Doublewood 12 Years", "price": 15},
+            {"name": "The Balvenie Doublewood 30 Years", "price": 195},
+            {"name": "The Dalmore 18", "price": 68},
+            {"name": "The Dalmore King Alexander III", "price": 75},
+            {"name": "The Glenlivet 12 Year Old", "price": 15},
+            {"name": "The Macallan Sherry Oak 12 Years Old", "price": 21},
+            {"name": "The Macallan Sherry Oak 18 Years Old", "price": 90},
+            {"name": "The Macallan Sherry Oak 25 Years Old", "price": 250},
+            {"name": "The Macallan Sherry Oak 30 Years Old", "price": 475},
+            {"name": "The Macallan M | Half Ounce Pour", "price": 225},
+            {"name": "The Macallan M | One Ounce Pour", "price": 450},
+            {"name": "The Macallan M | Two Ounce Pour", "price": 850},
+            {"name": "The Macallan No.6", "price": 700},
+            {"name": "The Macallan Reflexion", "price": 299}
+          ],
+          "BLENDED": [
+            {"name": "Johnnie Walker & Sons ‘Odyssey’", "price": 285},
+            {"name": "Johnnie Walker & Sons ‘King George V’", "price": 145},
+            {"name": "Johnnie Walker Blue Label", "price": 75},
+            {"name": "The Last Drop 1971", "price": 800}
+          ],
+          "COGNAC": [
+            {"name": "Courvoisier V.S.O.P.", "price": 14},
+            {"name": "Hennessy V.S.", "price": 16},
+            {"name": "Courvoisier X.O.", "price": 40},
+            {"name": "Hennessy V.S.O.P.", "price": 19},
+            {"name": "Rémy Martin VSOP", "price": 16},
+            {"name": "Hennessy X.O.", "price": 57},
+            {"name": "Rémy Martin XO", "price": 57},
+            {"name": "Hennessy Paradis", "price": 150},
+            {"name": "Richard Hennessy", "price": 525},
+            {"name": "HINE 'TALENT' Half Ounce Pour", "price": 490},
+            {"name": "HINE 'TALENT' One Ounce Pour", "price": 975},
+            {"name": "HINE 'TALENT' Two Ounce Pour", "price": 1900}
+          ],
+          "FORTIFIED WINES": [
+            {"name": "Cockburn 10yr Tawny Port", "price": 13},
+            {"name": "Fonseca 20yr Tawny Port", "price": 16},
+            {"name": "Croft 2000 Vintage Port", "price": 14},
+            {"name": "Blandy's 1977 Malmsey Madeira", "price": 103}
+          ],
+          "DOMESTIC WAGYU": [
+            {"name": "Wagyu Flat Iron 6 oz.", "price": 45},
+            {"name": "Wagyu Ribeye 8 oz.", "price": 75},
+            {"name": "Wagyu New York Strip 12 oz.", "price": 105},
+            {"name": "Wagyu Filet 8 oz.", "price": 90},
+            {"name": "Wagyu Tomahawk Ribeye 32 oz.", "price": 275}
+          ]
+        }   
+      },
+      "contact_information": {
+        "phone": "(857) 770-3300",
+        "location": "1 Broadway, Everett, MA 02149"
+      },
+      "hours_of_operation": {
+        "Thursday": "5-10 p.m.",
+        "Friday": "5-10 p.m.",
+        "Saturday": "5-10 p.m.",
+        "Sunday": "5-10 p.m."
+      }   
+    }
+  

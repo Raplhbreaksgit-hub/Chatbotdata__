@@ -1,0 +1,624 @@
+{
+    "restaurant": "ON DECK",
+    "Menu": {
+        "main": {
+      "TAIL-GATERS": [
+        {
+          "name": "New England Clam Chowder",
+          "price": {
+            "cup": 11,
+            "bowl": 14
+          },
+          "description": "Smoked bacon, oyster crackers, quahog and littleneck clams"
+        },
+        {
+          "name": "Loaded Nachos",
+          "price": 24,
+          "description": "Pulled chipotle chicken, corn, black beans, pico de gallo, sour cream, guacamole, queso sauce, pickled onions, jalapeños"
+        },
+        {
+          "name": "Jumbo Pretzel",
+          "price": 22,
+          "description": "Giant soft pretzel, jalapeño cheese sauce, stadium mustard"
+        },
+        {
+          "name": "Potato Skins",
+          "price": 17,
+          "description": "Jack cheese, bacon, sour cream, scallions"
+        },
+        {
+          "name": "Crispy Bang Bang Cauliflower",
+          "price": 15,
+          "description": "Sweet and sour, wasabi ranch, sesame-fried onion, scallions"
+        },
+        {
+          "name": "Chicken Wings",
+          "price": 22,
+          "description": "Tossed in BBQ, buffalo or sweet chili sauce, carrot and celery sticks, with ranch or blue cheese"
+        },
+        {
+          "name": "Buffalo Chicken Dip",
+          "price": 20,
+          "description": "Slow-roasted shredded chicken, cheddar, cream cheese, buffalo sauce, tortilla chips"
+        }
+      ],
+      "BUNS + ROLLS": [
+        {
+          "name": "Bourbon BBQ Bacon Burger*",
+          "price": 24,
+          "description": "Applewood smoked bacon, cheddar, bourbon BBQ sauce, tomato, lettuce, onion rings, garlic aioli, pretzel bun"
+        },
+        {
+          "name": "Beef Sliders*",
+          "price": 23,
+          "description": "Angus beef patties, smoked bacon, cheddar, pickle, special sauce, onion brioche"
+        },
+        {
+          "name": "Grilled Chicken BLT",
+          "price": 23,
+          "description": "Grilled chicken breast, avocado, applewood smoked bacon, lettuce, sundried tomato aioli, ciabatta"
+        },
+        {
+          "name": "Lobster Roll",
+          "price": 36,
+          "description": "Lightly dressed Maine lobster meat, lettuce, lemon aioli, toasted brioche roll"
+        },
+        {
+          "name": "Philly Cheesesteak",
+          "price": 25,
+          "description": "Shaved prime steak, bell peppers, onions, jalapeño cheese sauce"
+        },
+        {
+          "name": "On Deck Club Sandwich",
+          "price": 24,
+          "description": "Smoked turkey, ham, avocado, bacon, lettuce, tomato, tarragon aioli, toasted sourdough"
+        },
+        {
+          "name": "Oven Roast Turkey Wrap",
+          "price": 23,
+          "description": "Oven-roasted turkey, applewood smoked bacon, Havarti cheese, tomato, lettuce, basil aioli, whole wheat tortilla"
+        },
+        {
+          "name": "Pastrami Reuben",
+          "price": 24,
+          "description": "Sauerkraut, swiss, thousand island, griddled rye"
+        },
+        {
+          "name": "THE PATRIOT BURGER FOR THE 6X CHAMPIONS*",
+          "price": 23,
+          "description": "American cheese, special sauce, shredded lettuce, tomato, onion, seeded bun"
+        }
+      ],
+      "SALADS": [
+        {
+          "name": "BBQ Chicken Chopped Salad",
+          "price": 24,
+          "description": "BBQ chicken, romaine, bacon, cheddar, black beans, roasted corn, tomatoes, avocado, crispy onions, BBQ ranch dressing"
+        },
+        {
+          "name": "Cheeseburger Chopped Club Salad*",
+          "price": 26,
+          "description": "Cucumbers, tomatoes, carrots, chopped bacon, cheddar cheese, avocado, Thousand Island, crispy potatoes"
+        },
+        {
+          "name": "Caesar Salad*",
+          "price": 17,
+          "description": "Chopped romaine, house made croutons, parmesan, house Caesar dressing"
+        },
+        {
+          "name": "Grilled Chicken Cobb Salad",
+          "price": 24,
+          "description": "Grilled chicken, romaine, bacon, hard-boiled egg, blue cheese, cherry tomato, avocado, pickled onions, green goddess dressing"
+        }
+      ],
+      "MAIN EVENT": [
+        {
+          "name": "Fish And Chips*",
+          "price": 25,
+          "description": "Beer-battered haddock, tartar sauce, lemon, coleslaw, seashore seasoned fries"
+        },
+        {
+          "name": "Dom's Grilled Steak Tips*",
+          "price": 39,
+          "description": "Scallion mashed potatoes, asparagus, French onion gravy, rosemary butter"
+        },
+        {
+          "name": "Chicken Tacos",
+          "price": 22,
+          "description": "Guacamole, pickled fresno, cilantro crema, queso fresco, red cabbage, crispy tortilla chips, salsa roja"
+        },
+        {
+          "name": "Chicken Tenders",
+          "price": 24,
+          "description": "Tossed in BBQ, buffalo or sweet chili sauce, carrot and celery sticks, with ranch or blue cheese, seashore fries"
+        },
+        {
+          "name": "Salmon Teriyaki Bowl",
+          "price": 29,
+          "description": "Jasmine rice, edamame, radish, carrots, cucumber, avocado, sesame, teriyaki glaze"
+        }
+      ],
+      "BAKED MAC & CHEESE": [
+        {
+          "name": "Baked Mac & Cheese",
+          "price": 23,
+          "description": "Pimento béchamel, cavatappi pasta, seasoned breadcrumbs"
+        }
+      ],
+      "SIDES": [
+        {
+          "name": "Seashore Seasoned Fries",
+          "price": 8
+        },
+        {
+          "name": "Potato Tots",
+          "price": 8
+        },
+        {
+          "name": "Load 'Em Up with jalapeño cheese sauce and bacon",
+          "price": 11
+        },
+        {
+          "name": "Philly Cheesesteak Tots*",
+          "price": 16,
+          "description": "Shaved prime steak, creamy jalapeño cheese sauce, caramelized onions and peppers"
+        },
+        {
+          "name": "Onion Rings",
+          "price": 10
+        }
+      ],
+      "THE END ZONE": [
+        {
+          "name": "Sticky Toffee Pudding",
+          "price": 15,
+          "description": "Caramel ice cream, whipped cream, candied pecans"
+        },
+        {
+          "name": "Chocolate Trilogy Cake",
+          "price": 15,
+          "description": "White and dark chocolate mousse, mixed berries"
+        },
+        {
+          "name": "WAFFLE BOWL SUNDAE",
+          "price": 12,
+          "description": "Fudge brownie bites, chocolate sauce, caramel sauce, shaved chocolate, whipped cream, maraschino cherry"
+        }
+      ]
+    },
+    "BEVERAGE": {
+        "DRAFT CLASS": {
+          "LAGER": [
+            {
+              "name": "Bud Light",
+              "price": {
+                "small": 8,
+                "large": 12
+              },
+              "type": "Light Lager",
+              "abv": "4.2%"
+            },
+            {
+              "name": "Michelob Ultra",
+              "price": {
+                "small": 9,
+                "large": 13
+              },
+              "type": "Light Lager",
+              "abv": "4.2%"
+            },
+            {
+              "name": "Narragansett",
+              "price": {
+                "small": 9,
+                "large": 13
+              },
+              "abv": "5.1%"
+            },
+            {
+              "name": "Stella Artois",
+              "price": {
+                "small": 9,
+                "large": 13
+              },
+              "abv": "5.0%"
+            },
+            {
+              "name": "Heineken",
+              "price": {
+                "small": 9,
+                "large": 13
+              },
+              "abv": "5.0%"
+            },
+            {
+              "name": "Modelo Especial",
+              "price": {
+                "small": 9,
+                "large": 13
+              },
+              "abv": "4.4%"
+            },
+            {
+              "name": "Samuel Adams Boston Lager",
+              "price": {
+                "small": 9,
+                "large": 13
+              },
+              "abv": "5.0%"
+            }
+          ],
+          "WHEAT": [
+            {
+              "name": "Blue Moon",
+              "price": {
+                "small": 9,
+                "large": 13
+              },
+              "abv": "5.4%"
+            },
+            {
+              "name": "Allagash White",
+              "price": {
+                "small": 9,
+                "large": 13
+              },
+              "abv": "5.2%"
+            }
+          ],
+          "SOUR": [
+            {
+              "name": "True North, Seasonal Offering",
+              "price": {
+                "small": 12,
+                "large": 17
+              },
+              "abv": "5.0%"
+            }
+          ],
+          "STOUT": [
+            {
+              "name": "Guinness",
+              "price": {
+                "small": 9,
+                "large": 13
+              },
+              "abv": "4.2%"
+            }
+          ],
+          "SEASONAL": [
+            {
+              "name": "Sam Adams ‘Seasonal Offering’",
+              "price": {
+                "small": 11,
+                "large": 16
+              }
+            },
+            {
+              "name": "Down East Cider Co. 'Seasonal Offering'",
+              "price": {
+                "small": 10,
+                "large": 14
+              }
+            }
+          ],
+          "ALE": [
+            {
+              "name": "Mast Landing 'DDH Tell Tale'",
+              "price": {
+                "small": 12,
+                "large": 17
+              },
+              "type": "American Pale Ale (APA)",
+              "abv": "5.3%"
+            },
+            {
+              "name": "Maine Beer Co. ‘Lunch’",
+              "price": {
+                "small": 13,
+                "large": 19
+              },
+              "type": "India Pale Ale (IPA)",
+              "abv": "7.0%"
+            },
+            {
+              "name": "Night Shift ‘Santilli’",
+              "price": {
+                "small": 11,
+                "large": 16
+              },
+              "type": "India Pale Ale (IPA)",
+              "abv": "6.0%"
+            },
+            {
+              "name": "Night Shift, 'Local Luck'",
+              "price": {
+                "small": 12,
+                "large": 17
+              },
+              "type": "India Pale Ale (IPA)",
+              "abv": "5.7%"
+            },
+            {
+              "name": "Lone Pine 'Brightside'",
+              "price": {
+                "small": 11,
+                "large": 16
+              },
+              "type": "India Pale Ale (IPA)",
+              "abv": "7.1%"
+            },
+            {
+              "name": "Harpoon",
+              "price": {
+                "small": 10,
+                "large": 15
+              },
+              "type": "India Pale Ale (IPA)",
+              "abv": "6.0%"
+            },
+            {
+              "name": "Grey Sail ‘Captains Daughter’",
+              "price": 13,
+              "type": "Double India Pale Ale (DIPA)",
+              "abv": "8.5%",
+              "serving_size": "Served 12oz Only"
+            },
+            {
+              "name": "603 Brewery 'Double IPA'",
+              "price": 12,
+              "type": "Double India Pale Ale (DIPA)",
+              "abv": "8.5%",
+              "serving_size": "Served 12oz Only"
+            }
+          ],
+          "1ST ROUND PICKS": {
+            "LAGER": [
+              {
+                "name": "Coors Light",
+                "price": 8,
+                "type": "Light Lager",
+                "abv": "4.2%"
+              },
+              {
+                "name": "Heineken Light",
+                "price": 9,
+                "type": "Light Lager",
+                "abv": "3.3%"
+              },
+              {
+                "name": "Budweiser",
+                "price": 8,
+                "abv": "5.0%"
+              },
+              {
+                "name": "Corona",
+                "price": 9,
+                "abv": "4.6%"
+              }
+            ],
+            "CIDER": [
+              {
+                "name": "Downeast",
+                "price": 10,
+                "abv": "5.1%"
+              }
+            ],
+            "ALE": [
+              {
+                "name": "Bent Water ‘Sluice Juice’",
+                "price": 12,
+                "type": "India Pale Ale (IPA)",
+                "abv": "6.2%"
+              }
+            ],
+            "SELTZER": [
+              {
+                "name": "Truly Hard Seltzer",
+                "price": 10,
+                "abv": "5.0%"
+              }
+            ],
+            "NON-ALCOHOLIC": [
+              {
+                "name": "Athletic Brewing Co. 'Run Wild'",
+                "price": 9,
+                "abv": "0.5%"
+              }
+            ]
+          }
+        },
+        "WINES BY THE GLASS": {
+          "SPARKLING": [
+            {
+              "name": "Prosecco",
+              "price": 14,
+              "origin": "Flor, Veneto, Italy"
+            },
+            {
+              "name": "Champagne",
+              "price": 24,
+              "origin": "Perrier-Jouët, Grand Brut, Épernay, France"
+            }
+          ],
+          "WHITE": [
+            {
+              "name": "Riesling",
+              "price": 17,
+              "origin": "Westport Rivers, Westport, MA"
+            },
+            {
+              "name": "Sauvignon Blanc",
+              "price": 16,
+              "origin": "Duckhorn, Napa Valley, CA"
+            },
+            {
+              "name": "Pinot Grigio",
+              "price": 16,
+              "origin": "Santa Margherita, Alto Adige, Italy 16’"
+            }
+          ],
+          "ROSÉ": [
+            {
+              "name": "Château D’Esclans",
+              "price": 14,
+              "origin": "Whispering Angel, Côtes de Provence, France"
+            }
+          ],
+          "RED": [
+            {
+              "name": "Pinot Noir",
+              "price": 16,
+              "origin": "Benton-Lane, Willamette Valley, OR"
+            },
+            {
+              "name": "Zinfandel",
+              "price": 14,
+              "origin": "Mauritson, Dry Creek Valley, CA"
+            },
+            {
+              "name": "Merlot",
+              "price": 16,
+              "origin": "NorthStar, Columbia Valley, WA"
+            },
+            {
+              "name": "Cabernet Sauvignon",
+              "price": 17,
+              "origin": "Justin, Paso Robles, CA"
+            }
+        ]
+        },
+        "COCKTAILS": [
+          {
+            "name": "Banzai Pipeline",
+            "price": 17,
+            "description": "Hendrick's Gin, triple sec, lime, passion fruit, lime & yuzu soda"
+          },
+          {
+            "name": "Physical Therapy",
+            "price": 16,
+            "description": "‘Encore Expression’ Privateer Rum, Goslings Rum, pineapple, coconut cream, nutmeg"
+          },
+          {
+            "name": "Tee Time",
+            "price": 16,
+            "description": "Stoli Blueberi, lemonade, iced tea syrup"
+          },
+          {
+            "name": "Game Thyme Mule",
+            "price": 18,
+            "description": "Pear Absolute Vodka, thyme syrup, lime, pear, ginger beer"
+          },
+          {
+            "name": "Yellow Card",
+            "price": 16,
+            "description": "Ghost Spicy Tequila, mango, agave, fresh lime"
+          },
+          {
+            "name": "Lucky's Mudslide",
+            "price": 18,
+            "description": "Proper 12 Irish Whiskey, Bailey's Irish Cream, Kahlúa, mint liqueur cream"
+          }
+        ],
+        "SEASONAL COCKTAILS": [
+          {
+            "name": "Northern Dream",
+            "price": 20,
+            "description": "Encore Maker’s Mark Private Selection 2022, chamomile, lemon, egg white"
+          },
+          {
+            "name": "Royal Daisy",
+            "price": 18,
+            "description": "'Encore Expression' Patrón Reposado 2022, watermelon, habanero spiced agave, lime"
+          }
+        ]
+      },
+      "BRUNCH": {
+        "availability": "Available Saturday and Sunday 8 a.m. –12 p.m.",
+        "items": {
+          "Granola Parfait Ⓖ": {
+            "price": 18,
+            "description": "Mixed berries, vanilla yogurt"
+          },
+          "Sliced Market Fresh Fruit Plate ⓋⒼ": {
+            "price": 15,
+            "description": "Selection of seasonal fruits, melon, caramelized banana"
+          },
+          "Breakfast Burrito": {
+            "price": 21,
+            "description": "Chicken sausage, scrambled eggs, cheddar cheese, scallions, breakfast potatoes"
+          },
+          "American Breakfast*": {
+            "price": 24,
+            "description": "Two eggs, choice of bacon or chicken apple sausage, breakfast potatoes, choice of toast"
+          },
+          "Buttermilk Pancakes": {
+            "price": 22,
+            "description": "Whipped butter, Vermont maple syrup"
+          },
+          "Bacon, Egg And Cheese Breakfast Sandwich": {
+            "price": 22,
+            "description": "Fried egg, American cheese, ranchero salsa, everything bagel, breakfast potatoes"
+          },
+          "Breakfast Burger": {
+            "price": 25,
+            "description": "Two beef patties, Vermont cheddar, fried egg, applewood smoked bacon, special sauce, brioche bun"
+          },
+          "Chilaquiles Ⓖ": {
+            "price": 24,
+            "description": "Corn tortillas, chipotle-tomato pulled chicken, avocado, black beans, sour cream, two fried eggs"
+          }
+        },
+        "sides": {
+          "Bacon": 7,
+          "Chicken Apple Sausage": 7,
+          "Breakfast Potatoes": 8,
+          "Toast": 6
+        },
+        "beverages": {
+          "Coffee": 4.5,
+          "Single Espresso": 4,
+          "Double Espresso": 6,
+          "Single Cappuccino": 6.5,
+          "Double Cappuccino": 8.5,
+          "Tea": 5.5,
+          "Orange Juice": 7,
+          "Cranberry Juice": 7,
+          "Soft Drinks": 5
+        },
+        "signature_mimosas": {
+          "Grapefruit": {
+            "price": 17,
+            "ingredients": "Grapefruit, elderflower, prosecco"
+          },
+          "Tropical": {
+            "price": 17,
+            "ingredients": "Orange juice, strawberry, guava, prosecco"
+          },
+          "Lavender Lemon": {
+            "price": 17,
+            "ingredients": "Lavender, honey, prosecco"
+          }
+        },
+        "bloody_mary": {
+          "Bloody Mary": {
+            "price": 18,
+            "description": "Classic Bloody Mary, Tito's Vodka, olive brine | make it spicy"
+          }
+        }
+      }  
+   },
+   "contact": {
+    "phone": "(857) 770-3463",
+    "location": "1 Broadway, Everett, MA 02149"
+  },
+  "hours": {
+    "Monday": "11:30 a.m.–10 p.m.",
+    "Tuesday": "11:30 a.m.–10 p.m.",
+    "Wednesday": "11:30 a.m.–10 p.m.",
+    "Thursday": "11:30 a.m.–10 p.m.",
+    "Friday": "11:30 a.m.–11 p.m.",
+    "Saturday": "8:00 a.m.–11 p.m.",
+    "Sunday": "8:00 a.m.–10 p.m."
+  } 
+ }

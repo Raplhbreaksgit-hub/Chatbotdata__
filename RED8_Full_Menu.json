@@ -1,0 +1,219 @@
+{
+    "restaurant": "RED 8",
+    "Menu": {
+        "SIGNATURE": {
+          "dim_sum_appetizers": [
+            {"name": "Steamed BBQ Pork Buns", "price": 15.88},
+            {"name": "Shanghai Crispy Fish", "price": 22.88},
+            {"name": "Steamed Shrimp & Pork Shu Mai", "price": 15.88},
+            {"name": "Deep-Fried Salt & Pepper Squid", "price": 22.88},
+            {"name": "Crispy Shrimp Spring Roll", "price": 15.88},
+            {"name": "Turnip Cake with XO Sauce", "price": 16.88},
+            {"name": "Fried Sampan Chicken Wings", "price": 22.88},
+            {"name": "Crab Rangoon", "price": 15.88},
+            {"name": "Kobe Beef Pot Stickers", "price": 18.88}
+          ],
+          "soup": [
+            {"name": "Classic Hot & Sour Soup", "price": 13.88},
+            {"name": "Fish Maw Soup", "price": 22.88}
+          ],
+          "noodle_soup": [
+            {"name": "Shrimp & Pork Wonton", "price": 23.88, "description": "choy sum"},
+            {"name": "Braised Beef Brisket", "price": 24.88}
+          ],
+          "cantonesse_bbq": {
+            "roasted_duck": {"half": 56.88, "whole": 108.88},
+            "peking_duck": {"half": 60.88, "whole": 118.88},
+            "barbecue_pork": {"price": 28.88, "sauce": "soya honey glaze"},
+            "roasted_chicken": {"half": 36.88, "whole": 68.88, "sauce": "red bean curd"}
+          },
+          "wok_tossed_noodles": [
+            {"name": "Chicken or BBQ Pork Chow Mein", "price": 26.88},
+            {"name": "Shrimp or Beef Chow Mein", "price": 28.88},
+            {"name": "Beef Chow Fun", "price": 28.88},
+            {"name": "Fried Egg Noodle", "price": 28.88, "description": "with shredded pork and bean sprouts"},
+            {"name": "Stewed Yi-Mein Noodles", "price": 28.88, "description": "with mushrooms"},
+            {"name": "Hong Kong-Style Crispy Noodles", "price": 48.88, "description": "with seafood"}
+          ],
+          "vegetables": [
+            {"name": "Sauteed Pea Leaves", "price": 28.88, "description": "with minced garlic"},
+            {"name": "Szechuan Green Beans", "price": 18.88},
+            {"name": "Braised Eggplant", "price": 24.88, "description": "balsamic sauce"},
+            {"name": "Braised Tofu", "price": 26.88, "description": "with vegetables"},
+            {"name": "MaPo Tofu", "price": 20.88, "description": "with mushrooms"},
+            {"name": "Choy Sum", "price": 16.88, "description": "Please select Stir-Fried, Stir-Fried Minced Garlic or Poached 清炒, 蒜蓉 or 白灼"},
+            {"name": "Gai Lan", "price": 16.88, "description": "Please select Stir-Fried, Stir-Fried Minced Garlic or Poached 清炒, 蒜蓉 or 白灼"},
+            {"name": "Bok Choy", "price": 16.88, "description": "Please select Stir-Fried, Stir-Fried Minced Garlic or Poached 清炒, 蒜蓉 or 白灼"}
+          ],
+          "rice": {
+            "jasmine_or_brown_rice": 3.88,
+            "classic_fried_rice": {
+              "chicken": 24.88,
+              "beef": 26.88,
+              "shrimp": 26.88,
+              "vegetable": 24.88,
+              "bbq_pork": 24.88
+            },
+            "chicken_salty_fish_fried_rice": {"price": 25.88, "description": "lettuce"},
+            "kobe_beef_fried_rice": 38.88,
+            "dried_conpoy_fried_rice": {"price": 30.88, "description": "with egg"},
+            "yang_chow_fried_rice": 25.88
+          },
+          "seafood": [
+            {"name": "Stir-Fried Scallop & Asparagus", "price": 42.88, "description": "with XO sauce"},
+            {"name": "Braised Seafood & Tofu", "price": 38.88, "description": "with oyster sauce"},
+            {"name": "Stir-Fried Tiger Prawns", "price": 36.88, "description": "with sweet chili sauce"},
+            {"name": "Salt & Pepper Prawns", "price": 38.88, "description": "shell on, jalapeño"},
+            {"name": "Crispy Sampan Black Cod", "price": 32.88},
+            {"name": "Wok-Tossed Manila Clams", "price": 38.88, "description": "with Thai basil"}
+          ],
+          "from_the_tank": {
+            "maine_cold_water_lobster": "MP",
+            "washington_dungeness_crab": "MP",
+            "alaskan_red_king_crab": "MP",
+            "eel": "MP",
+            "black_grouper": "MP",
+            "live_fish_turbot": "MP",
+            "oysters": {"price_per_unit": 13.88, "preparation": "steamed with black bean garlic sauce 豆豉蒜蓉蒸生蠔"}
+          },
+          "entrees": [
+            {"name": "Mongolian Beef", "price": 32.88, "cocktail_pairing": {"name": "East Meets West", "price": 18}},
+            {"name": "Kung Pao Chicken", "price": 26.88, "cocktail_pairing": {"name": "Red Envelope", "price": 16}},
+            {"name": "General Tsao’s Chicken", "price": 26.88, "cocktail_pairing": {"name": "Red 8 Mai Tai", "price": 18}},
+            {"name": "Stir-Fried Chicken", "price": 32.88, "description": "with XO sauce"},
+            {"name": "Sweet & Sour Pork", "price": 26.88, "cocktail_pairing": {"name": "Drunken Monkey", "price": 16}},
+            {"name": "Crispy Orange Chicken", "price": 26.88},
+            {"name": "Beijing Leek Beef Tendon", "price": 32.88},
+            {"name": "Wok-Charred Beef Tenderloin", "price": 72.88, "description": "with black peppercorn sauce"}
+          ],
+          "desserts": [
+            {"name": "Chocolate Chow Mein", "price": 17.88, "description": "milk chocolate mousse, chocolate crumble, chocolate noodles, passion fruit coulis, caramelized cashews"},
+            {"name": "Mango Sago", "price": 11.88, "description": "mango, kiwi, strawberry, dragon fruit, mango sorbet"},
+            {"name": "Seasonal Gelato", "price": 9.88, "description": "chocolate waffle bowl"}
+          ]
+        },
+        "BEVERAGE": {
+            "specialty_cocktails": [
+              {"name": "Shanghai Sunset", "price": 16, "ingredients": "silver rum, coconut rum, blue curaçao, melon liqueur, pineapple juice"},
+              {"name": "Crazy for Coconuts", "price": 16, "ingredients": "silver rum, passion fruit, mango, crème de coconut, boba pearls"},
+              {"name": "Red Envelope", "price": 16, "ingredients": "vodka, lychee liqueur, strawberry, lychee, mint, lime"},
+              {"name": "East Meets West", "price": 18, "ingredients": "bourbon, Japanese whisky, cherry blossom, sherry spiced demerara, tobacco bitters"},
+              {"name": "Drunken Monkey", "price": 16, "ingredients": "rum, coconut liqueur, Maraschino liqueur, pineapple orange juice, tiki bitters, dry vermouth, nutmeg"},
+              {"name": "Red 8 Mai Tai", "price": 18, "ingredients": "rum, cognac, orange liqueur, orgeat, lime, aromatic bitters"}
+            ],
+            "signature_cocktail_flight": {"price": 23, "cocktails": ["Red 8 Mai Tai", "Crazy For Coconuts", "Drunken Monkey"]},
+            "seasonal_signature_cocktails": [
+              {"name": "Northern Dream", "price": 20, "ingredients": "Encore Maker’s Mark Private Selection 2022, chamomile, lemon, egg white"},
+              {"name": "Royal Daisy", "price": 18, "ingredients": "'Encore Expression' Patrón Reposado 2022, watermelon, habanero spiced agave, lime"}
+            ],
+            "mocktails": [
+              {"name": "Strawberry Bliss", "price": 9, "ingredients": "strawberry, pom juice, balsamic, basil, lemon"},
+              {"name": "Lucky Envelope", "price": 9, "ingredients": "strawberry purée, lychee purée, mint, lime, soda water"}
+            ],
+            "fresh_juices": [
+              {"name": "Watermelon 西瓜", "price": 9}
+            ],
+            "coffee_and_espresso": [
+              {"name": "Coffee 咖啡", "price": 4.88},
+              {"name": "Espresso 義式濃縮咖啡", "price": 4.88},
+              {"name": "Latte 拿铁", "price": 5.88},
+              {"name": "Cappuccino 卡布奇诺", "price": 6.88}
+            ],
+            "tea": {
+                "green_tea": [
+                  {"name": "Jasmine Pearl 茉莉花", "price": 6.88}
+                ],
+                "black_tea": [
+                  {"name": "Lychee Black 荔枝紅茶", "price": 6.88}
+                ],
+                "imperial_pu_erh": [
+                  {"name": "Imperial Pu-erh 御龍普洱", "price": 7.88}
+                ],
+                "herbal_tea": [
+                  {"name": "Chrysanthemum 菊花茶", "price": 6.88}
+                ],
+                "oolong_tea": [
+                  {"name": "Iron Buddha 鐵觀音茶", "price": 6.88}
+                ]
+              },
+            "beer": {
+              "bottles_cans": [
+                {"name": "Bud Light", "price": 8, "origin": "Missouri", "abv": "4.2%"},
+                {"name": "Sapporo Lager", "price": 9, "origin": "Japan", "abv": "4.2%"},
+                {"name": "Heineken", "price": 9, "origin": "Holland", "abv": "5.0%"},
+                {"name": "Tsingtao", "price": 9, "origin": "China", "abv": "4.7%"},
+                {"name": "Asahi Super Dry", "price": 9, "origin": "Japan", "abv": "5.0%"},
+                {"name": "Downeast Craft Cider", "price": 10, "origin": "Massachusetts", "abv": "5.1%"},
+                {"name": "Athletic Brewing Co. 'Run Wild'", "price": 9, "abv": "0.5%"}
+              ]
+            },
+            "whiskey_selections": [
+              {"name": "Kavalan Single Malt", "price": 27},
+              {"name": "Kavalan Concert Master", "price": 20},
+              {"name": "The Macallan 12", "price": 21},
+              {"name": "The Macallan 18", "price": 90},
+              {"name": "The Macallan 25", "price": 250},
+              {"name": "Johnnie Walker Black", "price": 15},
+              {"name": "Johnnie Walker Blue", "price": 75},
+              {"name": "Toki", "price": 12},
+              {"name": "Hibiki Harmony", "price": 16},
+              {"name": "Hibiki 21", "price": 120},
+              {"name": "Hakushu 12", "price": 48},
+              {"name": "Hakushu 18", "price": 78},
+              {"name": "Nikka from the Barrel", "price": 13},
+              {"name": "Nikka Taketsuru Pure Malt 17", "price": 45},
+              {"name": "Nikka Taketsuru Pure Malt 21", "price": 60},
+              {"name": "Nikka Miyagikyo", "price": 38},
+              {"name": "Yamazaki 12", "price": 31},
+              {"name": "Yamazaki 18", "price": 77}
+            ],
+            "cognac": [
+              {"name": "Hennessy VS", "price": 16},
+              {"name": "Hennessy VSOP", "price": 19},
+              {"name": "Hennessy XO", "price": 57},
+              {"name": "Remy Martin VSOP", "price": 16},
+              {"name": "Remy Martin XO", "price": 57},
+              {"name": "Remy Martin Louis XIII ½ oz.", "price": 125},
+              {"name": "Remy Martin Louis XIII 1 oz.", "price": 225},
+              {"name": "Remy Martin Louis XIII 2oz.", "price": 400}
+            ],
+            "sake": [
+              {"name": "Junmai Ginjo", "price": 13, "bottle_price": 50, "brand": "Rihaku “Wandering Poet”"},
+              {"name": "Junmai Daiginjo", "price": 25, "bottle_price": 98, "brand": "Ginga Shizuku “Divine Droplets”"}
+            ],
+            "soju": [
+              {"name": "Damso, Blueberry", "price": 24},
+              {"name": "Damso, Peach", "price": 24}
+            ],
+            "by_the_glass": [
+              {"category": "sparkling_wines", "name": "Prosecco, Flor, Veneto NV", "price": 14},
+              {"category": "sparkling_wines", "name": "Perrier-Jouët, Grand Brut, Épernay NV", "price": 24},
+              {"category": "white_wines", "name": "Chardonnay, Sandhi, Santa Barbara, California 2021", "price": 15},
+              {"category": "white_wines", "name": "Riesling, Eroica, Coumbia Valley, Washington 2022", "price": 16},
+              {"category": "white_wines", "name": "Pinot Grigio, Jermann, Friuli 2022", "price": 16},
+              {"category": "white_wines", "name": "Sauvignon Blanc, Starmont, Napa Valley 2021", "price": 14},
+              {"category": "rose_wines", "name": "Chateau d’Esclans, Whispering Angel Côtes de Provence, 2022", "price": 14},
+              {"category": "red_wines", "name": "Pinot Noir, Holloran, ‘Stafford Hill’ Willamette Valley 2022", "price": 15},
+              {"category": "red_wines", "name": "Merlot, Duckhorn, Napa Valley, 2020", "price": 20},
+              {"category": "red_wines", "name": "Malbec, Achaval Ferrer, Mendoza 2020", "price": 16},
+              {"category": "red_wines", "name": "Cabernet Sauvignon, Daou, Paso Robles 2021", "price": 20},
+              {"category": "red_wines", "name": "Cabernet Sauvignon, Oberon, Napa Valley, 2021", "price": 18}
+            ]
+          }    
+      },
+      "contact": {
+        "phone": "(857) 770-3463",
+        "location": "1 Broadway, Everett, MA 02149",
+        "reserve": null,
+        "hours": {
+          "Monday": "5 p.m.–11 p.m.",
+          "Tuesday": "5 p.m.–11 p.m.",
+          "Wednesday": "5 p.m.–11 p.m.",
+          "Thursday": "5 p.m.–11 p.m.",
+          "Friday": "5 p.m.–12 a.m.",
+          "Saturday": "12 p.m.–12 a.m.",
+          "Sunday": "12 p.m.–12 a.m."
+        }
+      }  
+    }
+  

@@ -1,0 +1,132 @@
+{
+            "restaurant": "FRANK AND NICK'S",
+            "Menu": {
+                    "HOT PANINI": [
+                        {
+                          "name": "Meatball (Rosetta’s Recipe)",
+                          "price": 15.95,
+                          "description": "Strega’s gold medal winner, marinara, whipped ricotta, grated aged Parmigiano-Reggiano"
+                        },
+                        {
+                          "name": "Eggplant Parmigiana",
+                          "price": 15.95,
+                          "description": "Layered eggplant, Fior Di Latte mozzarella, marinara, fresh-picked basil"
+                        },
+                        {
+                          "name": "Chicken Parmigiana",
+                          "price": 15.95,
+                          "description": "A North End classic"
+                        },
+                        {
+                          "name": "North End Potato & Egg*",
+                          "price": 15.95,
+                          "description": "Old fashioned potato and organic eggs"
+                        },
+                        {
+                          "name": "Italian Sausage & Peppers",
+                          "price": 15.95,
+                          "description": "Bianco’s famous sausage, roasted red peppers, sautéed onions"
+                        },
+                        {
+                          "name": "Steak & Cheese*",
+                          "price": 16.95,
+                          "description": "Thinly sliced certified USDA prime dry-aged ribeye, roasted red peppers, Vidalia onions, melted American cheese"
+                        },
+                        {
+                            "name": "Paccheri Ragu with Mom’s Meatball and Sausage",
+                            "price": 26.95,
+                            "description": "Traditional Sunday meal served daily"
+                          }
+                        ],
+                        "PANINI":[
+                        {
+                          "name": "Panino",
+                          "price": 14.95,
+                          "description": "18-month aged Parma prosciutto, fresh buffalo mozzarella, backyard tomatoes, fresh basil, EVOO"
+                        },
+                        {
+                          "name": "Organic Free-Range Turkey",
+                          "price": 14.95,
+                          "description": "Oven-roasted, fresh-picked lettuce, vine-ripened tomatoes, shaved provolone, pesto aioli"
+                        },
+                        {
+                          "name": "Italian Cold Cut",
+                          "price": 14.95,
+                          "description": "Mortadella, salami, calabrese soppressata, Sicilian hot cherry peppers, shaved provolone cheese, local tomatoes, EVOO"
+                        },
+                        {
+                          "name": "Frank & Nick’s Roast Beef*",
+                          "price": 15.95,
+                          "description": "Slow-roasted shaved roast beef, sliced American cheese, mayo, James River barbecue sauce"
+                        }
+                    ],
+                    "SALADS":[
+                        {
+                          "name": "Caesar*",
+                          "price": 13.95,
+                          "description": "Baby romaine, house-made croutons, Caesar dressing, shaved Parmigiano-Reggiano"
+                        },
+                        {
+                          "name": "Garden",
+                          "price": 13.95,
+                          "description": "Tossed mixed greens, cucumbers, Back Yard vine-ripened tomatoes, carrots, red onions, grilled seasonal fruit"
+                        },
+                        {
+                          "name": "Caprese",
+                          "price": 15.95,
+                          "description": "Vine-ripened tomatoes, mozzarella di Bufala, basil pesto, EVOO"
+                        },
+                        {
+                          "name": "Chicken Wings",
+                          "price": 18.95,
+                          "description": "A dozen buffalo, barbecue, or dry-rub"
+                        }
+                    ],
+                    "PIZZA": {
+                        "QUARTER PIE": 7,
+                        "WHOLE PIE": 25,
+                        "items": [
+                          {
+                            "name": "Margherita",
+                            "description": "Created in Naples Italy in 1889, to honor Queen Margherita. Made with fresh basil, whole mozzarella, and San Marzano tomatoes. Simply the BEST!"
+                          }
+                        ]
+                      },
+                      "BEVERAGES": {
+                        "COFFEE & TEA": {
+                          "Espresso": 3.95,
+                          "Cappuccino": 5.95,
+                          "Latte": 5.95,
+                          "Americano": 5.95,
+                          "Macchiato": 3.95,
+                          "Coffee": 3.95,
+                          "Iced Coffee": 3.95,
+                          "Hot Tea": 3.95,
+                          "Iced Tea": 3.95
+                        },
+                        "SODA": {
+                          "Coca Cola Offerings": 3.95
+                        },
+                        "DRAFT": {
+                          "Bud Light": 8,
+                          "Peroni": 9,
+                          "Stella": 9,
+                          "Bluemoon": 9,
+                          "Harpoon IPA": 9,
+                          "Samuel Adams Seasonal": 9
+                        },
+                        "CANS": {
+                          "White Claw": 8,
+                          "High Noon": 8,
+                          "Viva Tequila Soda": 8
+                        },
+                        "WINE": {
+                          "Pinot Grigio": 15,
+                          "Chardonnay": 15,
+                          "Cabernet": 15,
+                          "Chianti": 15
+                        },
+                        "Espresso Martini": 20
+                      }
+                }
+        }

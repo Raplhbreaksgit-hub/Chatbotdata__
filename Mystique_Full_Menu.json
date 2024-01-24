@@ -1,0 +1,499 @@
+{
+    "restaurant": "MYSTIQUE",
+    "Menu": {
+        "MAIN": {
+            "appetizers": [
+                {"name": "'SALT & PEPPER' CALAMARI", "price": 30, "notes": "Wok Tossed, Sambal, Sweet & Sour Sauce"},
+                {"name": "EDAMAME", "price": 12, "notes": "Sea Salt, Yuzu Aioli, Lime Zest Salt", "options": ["Ⓖ"]},
+                {"name": "SPICY EDAMAME", "price": 13, "notes": "Szechuan Sauce, Lime Zest Salt", "options": ["Ⓖ"]},
+                {"name": "WAGYU BEEF GYOZA*", "price": 23, "notes": "Su Miso Mustard, Ponzu"},
+                {"name": "CRISPY PEKING RAVIOLIS", "price": 21, "notes": "Locally Made Pork Dumplings, Chili Garlic Sauce"},
+                {"name": "SCALLION PANCAKES", "price": 19, "notes": "Crispy & Flaky, Sesame Vinaigrette, Curry Aioli"}
+              ],
+              "soups_and_salads": [
+                {"name": "MISO SOUP", "price": 12, "notes": "Classic Dashi, Tofu, Scallions", "options": ["Ⓖ"]},
+                {"name": "AVOCADO SALAD", "price": 19, "notes": "Cucumber, Carrot, Smoked Salt, Citrus Vinaigrette", "options": ["Ⓖ"]},
+                {"name": "JAPANESE SEAWEED SALAD", "price": 16, "notes": "Shaved Radish, Fuji Apple, Yuzu Soy Dressing"},
+                {"name": "HOT & SOUR SOUP", "price": 13, "notes": "Seasonal Mushrooms, Tofu, Egg, Vegetable Broth, Bamboo, Chili Sesame Oil", "options": ["Ⓖ"]},
+                {"name": "MUSHROOM DASHI", "price": 22, "notes": "Grilled Shiitake & Maitake Mushrooms, Smoked Bacon Dashi", "options": ["Ⓖ"]}
+              ],
+              "robata_grill": [
+                {"name": "CHICKEN WINGS", "price": 22, "notes": "Yuzu Kosho, Shiso Butter"},
+                {"name": "SMOKED PORK BELLY", "price": 19, "notes": "Su Miso Mustard, Tonkatsu"},
+                {"name": "TIGER PRAWN", "price": 22, "notes": "Togarashi, Momiji Aioli"},
+                {"name": "BEEF NY STRIP", "price": 20, "notes": "Scallion Yakitori, Shishito Sambal"},
+                {"name": "SCALLOPS*", "price": 22, "notes": "Smoked Tomato Vinaigrette, Citrus Butter"},
+                {"name": "CHARRED CAULIFLOWER", "price": 18, "notes": "Curry Aioli, Shiso Butter"},
+                {"name": "LOBSTER", "price": 35, "notes": "Yuzu Butter, Herb Aioli, Thai Pickled Cucumber Salad", "options": ["Ⓖ"]},
+                {"name": "AVOCADO BOMB", "price": 18, "notes": "Sudachi Aioli, Toasted Sesame, Ponzu", "options": ["Ⓖ"]},
+                {"name": "DUCK BREAST", "price": 31, "notes": "Pickled Plum, Tasoi, Umeboshi Glaze"},
+                {"name": "SHISHITO PEPPERS", "price": 21, "notes": "Shiso Butter, Balado Chili Sauce, Fried Shallot"}
+              ],
+              "raw": [
+                {"name": "SCALLOP CEVICHE", "price": 24, "notes": "Sudachi Soy, Fuji Apple, Sansho, Asian Pear", "options": ["Ⓖ"]},
+                {"name": "SALMON TATAKI", "price": 25, "notes": "Truffle, Shiso, Red Yuzu Kosho, Truffle Ponzu", "options": ["Ⓖ"]},
+                {"name": "TUNA TARTARE", "price": 28, "notes": "Bigeye Tuna, Smashed Avocado, Orange Tobiko, Lemon Soy", "options": ["Ⓖ"]},
+                {"name": "SPICY TUNA RICE BITES", "price": 24, "notes": "Spicy Tuna Salad, Tuna Tataki, Crispy Pressed Sushi Rice, Pickled Fresno, Chili Aioli", "options": ["Ⓖ"]},
+                {"name": "HAWAIIAN CHILI POKE", "price": 25, "notes": "Faroe Islands Salmon, Hamachi, Kabosu Ponzo, Tamago"},
+                {"name": "UNI SPOON", "price": 45, "notes": "Quail Egg, Caviar, Sudachi Soy"},
+                {"name": "KANPACHI PONZU", "price": 25, "notes": "Aji Amarillo, Tosa Soy, Serrano Chili"},
+                {"name": "MEDAI SASHIMI", "price": 25, "notes": "Baby Heirloom Tomato, Shiso & Verbena Oil, Yuzu Tobkio"}
+              ],
+              "maki": [
+                {"name": "EEL AVOCADO", "price": 18},
+                {"name": "SPICY TUNA", "price": 18, "notes": "Tuna, Chili Aioli, Scallion", "options": ["Ⓖ"]},
+                {"name": "NEGI TORO", "price": 20, "notes": "Fatty Tuna, Scallion", "options": ["Ⓖ"]},
+                {"name": "TEKKA", "price": 14, "notes": "Bluefin Hossomaki", "options": ["Ⓖ"]},
+                {"name": "SPICY SALMON", "price": 17, "notes": "Avocado, Chili Aioli, Togarashi", "options": ["Ⓖ"]},
+                {"name": "SALMON DRAGON", "price": 29, "notes": "Grilled Salmon Salad, Cucumber, Avocado, Tempura Flake, Scallion"},
+                {"name": "EEL CUCUMBER", "price": 18},
+                {"name": "CALIFORNIA", "price": 18, "notes": "Snow Crab, Kanikama, Avocado, Cucumber"},
+                {"name": "RAINBOW", "price": 29, "notes": "Tuna, Salmon, Hamachi, Avocado, Snow Crab, Shrimp, Kanikama, Cucumber"},
+                {"name": "SOFT SHELL CRAB", "price": 25, "notes": "Fried Soft Shell Crab, Chili Aioli, Scallion, Avocado, Tobiko, Cucumber"},
+                {"name": "SHRIMP TEMPURA", "price": 18, "notes": "Avocado, Cucumber, Chili Aioli"},
+                {"name": "SALMON FIRE", "price": 37, "notes": "Snow Crab, Torched Salmon, Avocado, Ginger Dressing, Fried Shallots"},
+                {"name": "RANGOON ROLL", "price": 35, "notes": "Snow crab salad, Caramelized Cream Cheese Scallion, Wonton Crisp"},
+                {"name": "A5 MAKI", "price": 39, "notes": "Torched Miyazaki A5, Cucumber, Avocado, Black Truffle Aioli, Shaved Perigod Truffle"}
+              ],
+              "nigri_sashimi": [
+                {"name": "UNAGI | FRESH WATER EEL", "price": 17},
+                {"name": "HOTATE | HOKKAIDO SCALLOP", "price": 22, "options": ["Ⓖ"]},
+                {"name": "SAKE | FAROE ISLAND SALMON", "price": 16, "options": ["Ⓖ"]},
+                {"name": "MAGURO | BLUEFIN TUNA", "price": 16, "options": ["Ⓖ"]},
+                {"name": "HAMACHI | YELLOWTAIL", "price": 17, "options": ["Ⓖ"]},
+                {"name": "OTORO | BLUEFIN BELLY", "price": 26, "options": ["Ⓖ"]},
+                {"name": "UNI | SEA URCHIN", "price": 19, "options": ["Ⓖ"]},
+                {"name": "BOTAN EBI | RED SPOTTED PRAWN", "price": 18, "options": ["Ⓖ"]},
+                {"name": "JAPANESE UNI | HOKKAIDO SEA URCHIN", "price": 46, "options": ["Ⓖ"]},
+                {"name": "OMAKASE | CHEF'S SELECTION OF NIGIRI OR SASHIMI", "price": 120},
+                {"name": "A5 WAGYU", "price": 35}
+              ],
+              "main": [
+                {"name": "BRAISED SHORT RIB", "price": 51, "notes": "Tonkatsu Sauce, Japanese Sweet Potato Salad"},
+                {"name": "GINGER SOY STIR FRY", "price": 30, "notes": "Baby Boy Choy, Bell Peppers, Broccoli, Shiitake", "options": ["Ⓖ"]},
+                {"name": "KOREAN BBQ NY STRIP*", "price": 58, "notes": "Double Cut Steak Frites, Sweet & Sour, Wasabi Salt"},
+                {"name": "RIBEYE STIR-FRY*", "price": 55, "notes": "Baby Bell & Shishito Peppers, Black Peppercorn, Organic Honey"},
+                {"name": "CHILEAN SEABASS", "price": 49, "notes": "Chili Miso, Japanese Eggplant, Potato Pave"},
+                {"name": "LOBSTER FRIED RICE", "price": 39, "notes": "Maine Lobster, Garlic Chives, Lemongrass, Egg", "options": ["Ⓖ"]},
+                {"name": "YUZU SOY BRANZINO", "price": 41, "notes": "Whole Crispy Branzino, Wok Tossed Baby Bok Choy"},
+                {"name": "PORK BELLY MOO SHU", "price": 35, "notes": "Crispy Pork Belly, Bacon Lardons, Pickled Red Onion, Fresno Chili, Sunny Egg, Moo Shu Wraps"}
+              ],
+              "SHAREABLES": [
+                {
+                  "name": "TIK TOK CHICKEN",
+                  "price": 35,
+                  "description": "Sweet & Spicy Ginger Sauce, Jasmine Rice"
+                },
+                {
+                  "name": "HOUSE FRIED RICE",
+                  "price": 32,
+                  "description": "Wok Fried Rice, Pork, Chicken, Shrimp, Sesame, Egg"
+                },
+                {
+                  "name": "SINGAPORE STREET NOODLE",
+                  "price": 35,
+                  "description": "Shrimp, Scallop, Char Siu Pork, Madras Curry, XO Sauce"
+                },
+                {
+                  "name": "FRESH LO MEIN",
+                  "price": 30,
+                  "description": "Local Egg Noodles, Vegetables, Soy Sauce"
+                },
+                {
+                  "name": "KARAAGE YAKIMESHI",
+                  "price": 38,
+                  "description": "Spiced Chicken, Red Cabbage, Onion, Egg, Yuzu Garlic Aioli."
+                },
+                {
+                  "name": "SESAME BEEF",
+                  "price": 38,
+                  "description": "Flank Steak, Orange Sweet & Sour, Broccoli Florets, Jasmine Rice."
+                },
+                {
+                  "name": "TRUFFLED FRIED CHICKEN HALF",
+                  "price": 45,
+                  "description": "Double Fried, Chili Truffled Honey, House Cut Fries"
+                }
+            ],
+            "WAGYU CUTS": [
+                { "name": "A5 - NEW YORK STRIP", "price": 90, "quantity": "PER 3 OZ." },
+                { "name": "AGED TOMAHAWK", "price": 160, "description": "Grilled Maitake & Shiitake Mushrooms" },
+                { "name": "A5 - 10 OZ MIYAZAKI SIRLION", "price": 280 },
+                { "name": "WAGYU BURGER", "price": 50, "description": "10 OZ Ground Wagyu, Thick Cut Bacon, Mirin Pickles, Black Truffle Aioli" }
+              ]
+        },
+        "BEVERAGE": {
+            "PARTY DRINKS": [
+              {
+                "name": "SLAY THE DRAGON",
+                "price": 85,
+                "description": "Serves Four or More Grey Goose Strawberry & Lemongrass, St. Germain, Yuzu & Fresh Lime"
+              },
+              {
+                "name": "SEA SPICE",
+                "price": 85,
+                "description": "Serves Four or More: Kraken 70 Proof, Bacardi Mango, Tropical Red Bull, Fresh Pineapple & Orange"
+              }
+            ],
+            "COCKTAILS": [
+              {
+                "name": "LYCHEE MARTINI",
+                "price": 22,
+                "ingredients": ["Grey Goose", "Lychee", "Sparkling Rosé"]
+              },
+              {
+                "name": "MYSTIQUE MAI TAI",
+                "price": 20,
+                "ingredients": ["Branson VSOP & Bacardi 8", "Orgeat", "Lime", "Pineapple"]
+              },
+              {
+                "name": "PEACH & ORANGE BLOSSOM MAI TAI",
+                "price": 20,
+                "ingredients": ["Ketel One Peach & Orange Blossom", "Aperol", "Lime", "Pineapple", "Cointreau"]
+              },
+              {
+                "name": "THE BUTTERFLY EFFECT",
+                "price": 22,
+                "ingredients": ["Tito's Vodka", "Pear", "St. Germain", "Fresh Lime & Kiwi"]
+              },
+              {
+                "name": "TIGER LILY",
+                "price": 20,
+                "ingredients": ["Patron Silver", "St. Germain", "Fresh Lime", "& Kiwi"]
+              },
+              {
+                "name": "CUCUMBER BASIL MARTINI",
+                "price": 22,
+                "ingredients": ["Hendrick's", "Muddled Cucumber", "Thai Basil", "White Pepper"]
+              },
+              {
+                "name": "MYSTIQUE MULE",
+                "price": 20,
+                "ingredients": ["Haku Vodka", "Yuzu Sour", "Mango", "Ginger Beer"]
+              },
+              {
+                "name": "THE ENCORE",
+                "price": 38,
+                "ingredients": ["Branson VSOP", "Cointreau", "Fresh Citrus", "Caramelized Pineapple Purée"]
+              },
+              {
+                "name": "KOMODO DRAGON",
+                "price": 20,
+                "ingredients": ["Chili infused Lobos 1707 Joven", "Lime Agave", "Mango", "Togarashi + Black Sea Salt"]
+              },
+              {
+                "name": "SMOKE SHOW",
+                "price": 20,
+                "ingredients": ["Vida Del Maguey Mezcal", "Fresh Lime", "Pineapple", "Angostura", "Tropical Red Bull"]
+              },
+              {
+                "name": "LYCHEE CITRUS SMASH",
+                "price": 20,
+                "ingredients": ["Howler Head Whiskey", "St. Germain", "Lychee", "Citrus & Mint"]
+              },
+              {
+                "name": "NIRVANA",
+                "price": 22,
+                "ingredients": ["Suntory Toki", "Passion Fruit", "Yuzu", "& Grapefruit"]
+              },
+              {
+                "name": "GOLD APRICOT SANGRIA",
+                "price": 17,
+                "carafePrice": 62,
+                "ingredients": ["Gold Apricot Vodka", "Absolut Mandarin", "Pinot Grigio", "Fresh Tangerine", "Thai Basil", "Ginger", "Sake"]
+              },
+              {
+                "name": "THE COCONUT CARTEL",
+                "price": 34,
+                "ingredients": ["Bacardi Coconut", "Howler Head", "Coconut Milk", "Pineapple & Cardamom"]
+              },
+              {
+                "name": "THE 23 MARTINI",
+                "price": 23,
+                "ingredients": ["Cincoro Blanco", "Chilled Espresso", "& Kahlua"]
+              }
+            ],
+            "SAKE": {
+              "JUNMAI": {
+                "HAKKAISAN": { "price": 15, "volume": "50", "description": "\"Blue Panda\" 300 ml" }
+              },
+              "JUNMAI DAIGINJO": {
+                "SOTO": { "price": 15, "volume": "50", "description": "300 ml" }
+              },
+              "NIGORI": {
+                "DREAMY CLOUDS": { "price": 15, "volume": "50", "description": "\"Dreamy Clouds\" 300 ml" }
+              },
+              "JUNMAI DAIGINJO": {
+                "WAKATAKE": { "price": 150, "volume": "250", "description": "\"Demon Slayer\" 720 ml BTL $150 (1.8 L) BTL $250" },
+                "GOLDEN SAMURAI": { "price": 250, "volume": "720", "description": "\"Golden Samurai\" (720ml) BTL" }
+              }
+            },
+            "BEER": {
+              "BOTTLE": [
+                { "name": "AMSTEL LIGHT", "price": 9 },
+                { "name": "BUD/BUD LIGHT", "price": 10 },
+                { "name": "CORONA", "price": 9 },
+                { "name": "HEINEKEN/HEINEKEN 0.0", "price": 10 },
+                { "name": "MICHELOB ULTRA", "price": 10 },
+                { "name": "SAPPORO CAN", "price": 15, "volume": "22 oz." },
+                { "name": "TRULY SPIKED SELTZER", "price": 8 }
+              ],
+              "DRAFT": [
+                { "name": "ALLAGASH WHITE", "price": 9 },
+                { "name": "HARPOON IPA", "price": 9 },
+                { "name": "KIRIN", "price": 9 },
+                { "name": "SAM SEASONAL", "price": 9 },
+                { "name": "SAM ADAMS BOSTON LAGER", "price": 9 },
+                { "name": "STELLA", "price": 9 },
+                { "name": "LORD HOBO BOOMSAUCE DIPA", "price": 12 },
+                { "name": "MYSTIQUE SEASONAL SELECTION", "price": "MKT" }
+              ]
+            },
+            "WINE": {
+              "BY THE GLASS": {
+                "CHAMPAGNE + SPARKLING WINE": [
+                  { "name": "BRUT, CHANDON", "price": 17 },
+                  { "name": "SPARKLING ROSÉ, MAISON MARCEL", "price": 17 },
+                  { "name": "BRUT, BELAIRE GOLD - 187 ML", "price": 26 }
+                ],
+                "WHITE & ROSÉ": [
+                  { "name": "ROSÉ, MAISON MARCEL (FR)", "price": 16 },
+                  { "name": "PINOT GRIGIO, AQUA DE VENUS (ITA)", "price": 16 },
+                  { "name": "RIESLING, KUNG FU GIRL (WA)", "price": 15 },
+                  { "name": "SAUVIGNON BLANC, KIM CRAWFORD (NZ)", "price": 17 },
+                  { "name": "CHARDONNAY, NEWTON SKYSIDE (CA)", "price": 16 }
+                ],
+                "RED WINE": [
+                  { "name": "MEIOMI PINOT NOIR (CA)", "price": 17 },
+                  { "name": "LOCATIONS RED BLEND (CA)", "price": 17 },
+                  { "name": "CATENA MALBEC (ARG)", "price": 16 },
+                  { "name": "DECOY CABERNET SAUVIGNON (CA)", "price": 17 }
+                ]
+              },
+              "BY THE BOTTLE": {
+                "CHAMPAGNE + SPARKLING": [
+                  { "name": "BRUT, ARMAND DE BRIGNAC, ACE OF SPADES", "price": 900 },
+                  { "name": "BRUT ROSÉ, ARMAND DE BRIGNAC, ACE OF SPADES", "price": 1100 },
+                  { "name": "BRUT, BELAIRE ROSÉ", "price": 250 },
+                  { "name": "DEMI SEC, BELAIRE LUXE", "price": 250 },
+                  { "name": "BRUT, BELAIRE GOLD", "price": 250 },
+                  { "name": "SPARKLING ROSÉ, MAISON MARCEL", "price": 66 },
+                  { "name": "BRUT, MOËT IMPERIAL", "price": 300 },
+                  { "name": "BRUT, VEUVE CLICQUOT", "price": 325 },
+                  { "name": "BRUT, VEUVE CLICQUOT ROSÉ", "price": 350 },
+                  { "name": "BRUT, LE CHEMIN DU ROI", "price": 300 },
+                  { "name": "BRUT, LE CHEMIN DU ROI ROSÉ", "price": 400 },
+                  { "name": "BRUT, DOM PERIGNON", "price": 900 }
+                ],
+                "WHITE & ROSÉ": [
+                  { "name": "CONUNDRUM WHITE BLEND (CA)", "price": 70 },
+                  { "name": "PASCAL JOLIVET SANCERRE (FR)", "price": 110 },
+                  { "name": "CLOUDY BAY, SAUVIGNON BLANC (NZ)", "price": 96 },
+                  { "name": "HARTFORD COURT, CHARDONNAY (CA)", "price": 120 },
+                  { "name": "KONGSGAARD CHARDONNARY (CA)", "price": 315 },
+                  { "name": "DOMAINE GAGNARD DELAGRANGE CHASSAGNE MONTRACHET (FR)", "price": 320 },
+                  { "name": "LOUIS LATOUR CORTON-CHARLEMANGE GRAND CRU (FR)", "price": 440 },
+                  { "name": "OLIVIER LEFLAIVE GRAND CRU (FR)", "price": 340 },
+                  { "name": "MAISON MARCEL ROSÉ", "price": 62 }
+                ],
+                "RED WINE": [
+                    { "name": "LA CREMA PINOT NOIR (CA)", "price": 98 },
+                    { "name": "EMERITUS PINOT NOIR (CA)", "price": 140 },
+                    { "name": "DOMAINE SERENE PINOT NOIR (OR)", "price": 250 },
+                    { "name": "CHAPTER 24 \"THE LAST CHAPTER\" PINOT NOIR (OR)", "price": 250 },
+                    { "name": "QUINTESSA RED BLEND (CA)", "price": 585 },
+                    { "name": "FREEMARK ABBEY, MERLOT, (CA)", "price": 145 },
+                    { "name": "RED SCHOONER MALBEC (ARG)", "price": 145 },
+                    { "name": "KENDAL JACKSON GRAND RESERVE CABERNET SAUVIGNON (CA)", "price": 90 },
+                    { "name": "GROTH CABERNET SAUVIGNON (CA)", "price": 200 },
+                    { "name": "CAYMUS (1 LITER) CABERNET SAUVIGNON (CA)", "price": 245 },
+                    { "name": "THE PRISONER, RED BLEND (CA)", "price": 125 },
+                    { "name": "OPUS ONE (CA)", "price": 750 },
+                    { "name": "OPUS ONE (1.5 LITER) (CA)", "price": 1800 },
+                    { "name": "RED BLEND, CHARLES KRUG GENERATIONS (CA)", "price": 240 }
+                ]
+            },
+                "SCOTCH": [
+                    { "name": "ARDBERG 10", "price": 18 },
+                    { "name": "BALVENIE 12", "price": 24 },
+                    { "name": "BALVENIE 14", "price": 26 },
+                    { "name": "DEWAR'S WHITE", "price": 15 },
+                    { "name": "GLENFIDDICH 12", "price": 18 },
+                    { "name": "GLENFIDDICH 18", "price": 34 },
+                    { "name": "GLENLIVET 12", "price": 17 },
+                    { "name": "GLENMORANGIE 10", "price": 18 },
+                    { "name": "HAKUSHU 18", "price": 110 },
+                    { "name": "JOHNNY WALKER BLACK", "price": 18 },
+                    { "name": "JOHNNY WALKER GOLD", "price": 22 },
+                    { "name": "JOHNNY WALKER BLUE", "price": 68 },
+                    { "name": "MACALLAN 12", "price": 32 },
+                    { "name": "MACALLAN RARE CASK", "price": 84 },
+                    { "name": "MONKEY SHOULDER", "price": 16 },
+                    { "name": "OBAN 14", "price": 28 },
+                    { "name": "YAMAZAKI 12", "price": 52 }
+                  ],
+                  "WHISKEY": [
+                    { "name": "BAKER'S BOURBON", "price": 20 },
+                    { "name": "BASIL HAYDEN", "price": 20 },
+                    { "name": "BOOKER'S BOURBON", "price": 28 },
+                    { "name": "BULLEIT BOURBON", "price": 18 },
+                    { "name": "BULLEIT RYE", "price": 18 },
+                    { "name": "CROWN ROYAL", "price": 18 },
+                    { "name": "HATOZAKI SMALL BATCH", "price": 22 },
+                    { "name": "JACK DANIEL'S HONEY", "price": 16 },
+                    { "name": "JAMESON", "price": 17 },
+                    { "name": "KAIYO CASK STRENGTH", "price": 26 },
+                    { "name": "KNOB CREEK", "price": 20 },
+                    { "name": "KNOB CREEK RYE", "price": 20 },
+                    { "name": "MAKERS MARK", "price": 18 },
+                    { "name": "SUNTORY TOKI", "price": 22 },
+                    { "name": "WOODFORD RESERVE", "price": 18 }
+                  ],
+                  "COGNAC": [
+                    { "name": "D'USSE", "price": 16 },
+                    { "name": "GRAND MARNIER 100", "price": 40 },
+                    { "name": "HENNESSY VS", "price": 18 },
+                    { "name": "HENNESSY VSOP", "price": 34 },
+                    { "name": "HENNESSY XO", "price": 68 },
+                    { "name": "REMY MARTIN LOUIS XIII (1OZ)", "price": 325 },
+                    { "name": "REMY MARTIN, LOUIS XIII (2OZ)", "price": 575 }
+                  ],
+                  "TEQUILA": [
+                    { "name": "AVIÓN SILVER", "price": 17 },
+                    { "name": "AVIÓN REPOSADO", "price": 18 },
+                    { "name": "AVIÓN AÑEJO", "price": 19 },
+                    { "name": "CINCORO BLANCO", "price": 24 },
+                    { "name": "CINCORO REPOSADO", "price": 30 },
+                    { "name": "CINCORO AÑEJO", "price": 50 },
+                    { "name": "CORZO SILVER", "price": 18 },
+                    { "name": "CLASE AZUL REPOSADO", "price": 60 },
+                    { "name": "DON JULIO BLANCO", "price": 20 },
+                    { "name": "DON JULIO REPOSADO", "price": 22 },
+                    { "name": "DON JULIO AÑEJO", "price": 24 },
+                    { "name": "DON JULIO 1942", "price": 65 },
+                    { "name": "PATRON SILVER", "price": 18 },
+                    { "name": "CASAMIGOS BLANCO", "price": 18 },
+                    { "name": "CASAMIGOS REPOSADO", "price": 19 },
+                    { "name": "LOBOS 1707 JOVEN", "price": 16 },
+                    { "name": "LOBOS 1707 REPOSADO", "price": 17 },
+                    { "name": "LOBOS 1707 EXTRA AÑEJO", "price": 50 }
+                  ],
+                  "CORDIALS & PORTS": [
+                    { "name": "AMARETTO DISARONNO", "price": 16 },
+                    { "name": "KWEICHOW MOUTAI", "price": 32 },
+                    { "name": "KWEICHOW MOUTAI", "price": 275 },
+                    { "name": "TAYLOR FLADGATE 10 YR.", "price": 16 },
+                    { "name": "TAYLOR FLADGATE 20 YR.", "price": 18 }
+                  ],
+                  "LIQUID DESSERTS": [
+                    { "name": "ALMOND JOY", "price": 22 },
+                    { "name": "EMPEROR'S ESPRESSO", "price": 22 },
+                    { "name": "L'ORANGE MARTINI", "price": 22 }
+                  ]
+            }
+    },
+    "BOTTLES": {
+        "CHAMPAGNE": [
+          { "name": "ACE OF SPADES", "price": 900 },
+          { "name": "ACE OF SPADES ROSÉ", "price": 1100 },
+          { "name": "BELAIRE GOLD", "price": 200 },
+          { "name": "BELAIRE LUXE", "price": 200 },
+          { "name": "BELAIRE ROSÉ", "price": 200 },
+          { "name": "BELAIRE BLEU", "price": 200 },
+          { "name": "BELAIRE GOLD MAGNUM", "price": 350 },
+          { "name": "BELAIRE ROSÉ MAGNUM", "price": 350 },
+          { "name": "DOM PERIGNON", "price": 900 },
+          { "name": "MOËT IMPERIAL", "price": 250 },
+          { "name": "VEUVE CLICQUOT", "price": 300 },
+          { "name": "VEUVE CLICQUOT ROSÉ", "price": 325 },
+          { "name": "50 CENT'S 'THE KING' BRUT", "price": 200 },
+          { "name": "50 CENT'S 'THE KING' VEUVE CLICQUOT ROSÉ", "price": 300 }
+        ],
+        "TEQUILA": [
+          { "name": "AVIÓN SILVER", "price": 300 },
+          { "name": "CASAMIGOS BLANCO", "price": 400 },
+          { "name": "CASAMIGOS REPOSADO", "price": 500 },
+          { "name": "CLASE AZUL REPOSADO", "price": 900 },
+          { "name": "CINCORO BLANCO", "price": 400 },
+          { "name": "CINCORO REPOSADO", "price": 500 },
+          { "name": "CINCORO ANEJO", "price": 550 },
+          { "name": "DON JULIO BLANCO", "price": 400 },
+          { "name": "DON JULIO 1942", "price": 1000 },
+          { "name": "DON JULIO 1942 MAGNUM", "price": 2000 },
+          { "name": "LOBOS 1707 JOVEN", "price": 300 },
+          { "name": "LOBOS 1707 REPOSADO", "price": 350 },
+          { "name": "LOBOS 17078 EXTRA ANEJO", "price": 550 },
+          { "name": "PATRON SILVER", "price": 300 },
+          { "name": "PATRON REPOSADO", "price": 350 }
+        ],
+        "VODKA": [
+          { "name": "ABSOLUT ELYX", "price": 350 },
+          { "name": "BELVEDERE", "price": 400 },
+          { "name": "CIROC", "price": 350 },
+          { "name": "GREY GOOSE", "price": 300 },
+          { "name": "GREY GOOSE MAGNUM", "price": 450 },
+          { "name": "KETEL ONE", "price": 350 },
+          { "name": "TITO'S", "price": 300 },
+          { "name": "TITO'S MAGNUM", "price": 450 }
+        ],
+        "RUM": [
+          { "name": "BACARDI", "price": 250 },
+          { "name": "BACARDI 8", "price": 300 },
+          { "name": "CAPTAIN MORGAN", "price": 300 }
+        ],
+        "COGNAC": [
+          { "name": "BRANSON VSOP", "price": 250 },
+          { "name": "D'USSE VSOP", "price": 300 },
+          { "name": "HENNESSY VS", "price": 400 },
+          { "name": "HENNESSY VSOP", "price": 500 },
+          { "name": "HENNESSY XO", "price": 900 },
+          { "name": "REMY MARTIN, LOUIS XIII", "price": 9000 }
+        ],
+        "GIN": [
+          { "name": "BOMBAY", "price": 250 },
+          { "name": "BOMBAY SAPPHIRE", "price": 300 },
+          { "name": "HENDRICK'S", "price": 300 },
+          { "name": "TANQUERAY", "price": 300 }
+        ],
+        "WHISKEY": [
+          { "name": "CROWN ROYAL", "price": 300 },
+          { "name": "DEWARS", "price": 250 },
+          { "name": "HOWLER HEAD", "price": 250 },
+          { "name": "JOHNNIE WALKER BLACK", "price": 400 },
+          { "name": "JOHNNIE WALKER BLUE", "price": 900 },
+          { "name": "MACALLAN 12", "price": 600 },
+          { "name": "JACK DANIELS", "price": 250 },
+          { "name": "JAMESON", "price": 300 },
+          { "name": "MAKER'S MARK", "price": 350 }
+        ],
+        "BEER BUCKETS": [
+          { "name": "MIX & MATCH", "price": 100 }
+        ]
+      },
+      "DESSERT": [
+        { "name": "CHOCOLATE TSUNAMI", "price": 26 },
+        { "name": "BAKED ALASKA", "price": 38 },
+        { "name": "ASSORTED MOCHI Ⓖ", "price": 15 },
+        { "name": "PASSIONFRUIT BOMBE", "price": 24 },
+        { "name": "TRIPLE CHOCOLATE MOUSSE CAKE Ⓖ", "price": 22 },
+        { "name": "COTTON CANDY CAROUSEL", "price": 40 },
+        { "name": "ALMOND JOY", "price": 22 },
+        { "name": "EMPEROR'S ESPRESSO", "price": 22 },
+        { "name": "L'ORANGE MARTINI", "price": 22 }
+      ],
+      "CONTACT": {
+        "phone": "(857) 770-3463",
+        "location": "1 Broadway, Everett, MA 02149",
+        "Reserve": null,
+        "HOURS": {
+          "Monday": "5-10 p.m.",
+          "Tuesday": "5-10 p.m.",
+          "Wednesday": "5-10 p.m.",
+          "Thursday": "5-10 p.m.",
+          "Friday": "5-11 p.m.",
+          "Saturday": "5-11 p.m.",
+          "Sunday": "5-10 p.m."
+        }
+      }    
+  }    
+}

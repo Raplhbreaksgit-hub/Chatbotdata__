@@ -1,0 +1,173 @@
+{
+    "restaurant": "RARE LOUNGE",
+    "Menu": {
+        "MAIN": {
+            "raw_bar": {
+                "items": [
+                  {"name": "Local Oysters", "price": 4},
+                  {"name": "Colossal Poached Shrimp", "price": 10},
+                  {"name": "Alaskan King Crab", "price": "MKT"}
+                ],
+                "served_with": ["House Hot Sauce", "Cocktail Sauce", "Horseradish", "Lemon", "Mignonette"]
+              },
+              "small_bites": {
+                "items": [
+                  {"name": "CRUDITÉ ⓋⒼ", "price": 19},
+                  {"name": "YELLOWFIN TUNA SASHIMI*", "price": 32},
+                  {"name": "CAESAR SALAD", "price": 18},
+                  {"name": "MINI MAINE LOBSTER ROLLS", "price": 39},
+                  {"name": "STEAKHOUSE WEDGE SALAD", "price": 20},
+                  {"name": "JUMBO LUMP CRAB CAKES", "price": 29},
+                  {"name": "PRIME CHEESESTEAK BITES", "price": 24},
+                  {"name": "FRIED CHICKEN WINGS", "price": 18},
+                  {"name": "PIGS IN A BLANKET", "price": 17}
+                ]
+              },
+              "big_bites": {
+                "items": [
+                  {"name": "STEAKHOUSE BURGER*", "price": 25},
+                  {"name": "FILET 8 oz* Ⓖ", "price": 70},
+                  {"name": "NEW ENGLAND FISH & CHIPS", "price": 22},
+                  {"name": "RIBEYE 16 oz* Ⓖ", "price": 80},
+                  {"name": "STEAK FRITES* Ⓖ", "price": 35}
+                ]
+              },
+              "sides": {
+                "items": [
+                  {"name": "FIRE ROASTED ASPARAGUS Ⓖ", "price": 19},
+                  {"name": "ROASTED FOREST MUSHROOMS", "price": 18},
+                  {"name": "BAKED MAC & CHEESE", "price": 18},
+                  {"name": "ROASTED FINGERLING POTATOES", "price": 16}
+                ]
+              },
+              "sweets": {
+                "items": [
+                  {"name": "BABY BANANA", "price": 18},
+                  {"name": "APPLE PECAN CHEESECAKE", "price": 18}
+                ]
+              }
+            },
+            "BEVERAGE": {
+                "cocktails": [
+                  {"name": "LUCKY STREAK", "price": 18},
+                  {"name": "CALICO SKIES", "price": 20},
+                  {"name": "HARLOW", "price": 20},
+                  {"name": "GOLDEN RULE", "price": 28},
+                  {"name": "YOU ONLY LIVE TWICE", "price": 18},
+                  {"name": "WILD WOOD", "price": 19},
+                  {"name": "LOVE STORY", "price": 18},
+                  {"name": "NEW ENGLAND WHISKEY", "price": 30}
+                ],
+                "mocktails": [
+                  {"name": "IN THE MOMENT", "price": 15},
+                  {"name": "TICKET TO PARADISE", "price": 16}
+                ],
+                "beer": {
+                  "draught": [
+                    {"name": "Bud Light", "price": 7},
+                    {"name": "Stella Artois", "price": 8},
+                    {"name": "Santilli", "price": 9},
+                    {"name": "Maine Beer Co. ‘Lunch’", "price": 12},
+                    {"name": "Samuel Adams", "price": 8},
+                    {"name": "Blue Moon", "price": 9}
+                  ],
+                  "bottled_or_canned": [
+                    {"name": "Corona Extra", "price": 8},
+                    {"name": "Guinness", "price": 8},
+                    {"name": "Bent Water ‘Sluice Juice’", "price": 9},
+                    {"name": "Stormalong ‘Mass Appeal’", "price": 10},
+                    {"name": "Athletic Brewing Co. ‘Run Wild’", "price": 7}
+                  ]
+                },
+                "wine_by_the_glass": {
+                  "sparkling": [
+                    {"name": "Champagne, Perrier-Jouët Grand Brut", "price": 24},
+                    {"name": "Champagne, Krug Grande Cuvée Brut", "price": 75}
+                  ],
+                  "white": [
+                    {"name": "Albariño, Paco Y Lola, Rias Baixas", "price": 14},
+                    {"name": "Chardonnay, Failla, Sonoma Coast", "price": 28},
+                    {"name": "Chardonnay, Stag’s Leap Wine Cellars, Karia, Napa Valley", "price": 21},
+                    {"name": "Pinot Grigio, Jermann, Friuli", "price": 16},
+                    {"name": "Riesling, Willi Haag, Brauneberger Juffer, Kabinett, Mosel", "price": 16},
+                    {"name": "Sancerre, Domaine Daniel Crochet, Loire", "price": 20},
+                    {"name": "Sauvignon Blanc, Long Meadow Ranch, Rutherford, Napa", "price": 18}
+                  ],
+                  "rosé": [
+                    {"name": "Pinot Noir, Flowers, Sonoma Coast", "price": 20}
+                  ],
+                  "red": [
+                    {"name": "Cabernet Sauvignon, Jordan, Alexander Valley", "price": 36},
+                    {"name": "Gigondas, Domaine Brusset, Tradition le Grand Montmirail", "price": 23},
+                    {"name": "Pinot Noir, Gran Moraine, Yamhill-Carlton", "price": 26},
+                    {"name": "Tempranillo, CVNE, Imperial Reserva, Rioja", "price": 31},
+                    {"name": "Red Blend, The Prisoner, Napa Valley", "price": 31}
+                  ]
+                },
+                "flights": [
+                  {"name": "LAPHROAIG", "price": 50},
+                  {"name": "THE MACALLAN", "price": 140},
+                  {"name": "WHISTLEPIG", "price": 70},
+                  {"name": "BLANTON’S", "price": 39},
+                  {"name": "CLASE AZUL", "price": 130},
+                  {"name": "MAKER’S MARK", "price": 30}
+                ],
+                "limited_selections": {
+                  "bourbon": [
+                    {"name": "Eagle Rare, 17 Years Old", "price": 70},
+                    {"name": "Colonel EH Taylor, Barrel Proof", "price": 40},
+                    {"name": "Elmer T Lee, Single Barrel", "price": 20},
+                    {"name": "Old Rip Van Winkle, Aged 10 Years", "price": 50},
+                    {"name": "Van Winkle, 12 Years Old", "price": 70},
+                    {"name": "Pappy Van Winkle, 15 Years Old", "price": 100},
+                    {"name": "Pappy Van Winkle, 20 Years Old", "price": 150},
+                    {"name": "Pappy Van Winkle, 23 Years Old", "price": 225},
+                    {"name": "William Larue Weller", "price": 70},
+                    {"name": "Lone Whisker, Aged 12 Years", "price": 77},
+                    {"name": "Lone Whisker, 15 Years Old, The Dogfather", "price": 145},
+                    {"name": "Yellowstone, 2022 Limited Edition", "price": 35},
+                    {"name": "Angel’s Envy Cask Strength, 2022 Limited Edition", "price": 46}
+                  ],
+                  "scotch": [
+                    {"name": "Bowmore, Aged 27 Years", "price": 400},
+                    {"name": "Orphan Barrel, Muckety Muck", "price": 63},
+                    {"name": "The Last Drop, 1971", "price": 800}
+                  ],
+                  "tequila": [
+                    {"name": "Clase Azul, 25th Anniversary", "price": 125},
+                    {"name": "Clase Azul, DÍa De Muertos", "price": 200}
+                  ],
+                  "japanese_whiskey": [
+                    {"name": "Yamazaki, Peated Malt", "price": 130},
+                    {"name": "Yamazaki, Puncheon", "price": 130},
+                    {"name": "Yamazaki, Spanish Oak", "price": 130}
+                  ],
+                  "rye": [
+                    {"name": "Sazerac Rye, 18 Year Old", "price": 70},
+                    {"name": "Lock Stock and Barrel, 21 Year Old", "price": 121},
+                    {"name": "WhistlePig Boss Hog II", "price": 800},
+                    {"name": "WhistlePig Boss Hog IV, Black Prince", "price": 300},
+                    {"name": "WhistlePig Boss Hog V, Spirit of Mauve", "price": 250},
+                    {"name": "WhistlePig Boss Hog VI, Samurai Scientist", "price": 200},
+                    {"name": "WhistlePig Boss Hog VIII, LapuLapu’s Pacific", "price": 175},
+                    {"name": "WhistlePig Boss Hog IX, Siren’s Song", "price": 150},
+                    {"name": "WhistlePig, 18 Year Single Barrel", "price": 140}
+                  ]
+                }
+              }  
+        },
+        
+  "contact": {
+    "phone": "(857) 770-3463",
+    "location": "1 Broadway, Everett, MA 02149"
+  },
+  "hours": {
+    "Sunday": "4 p.m.-11 p.m.",
+    "Monday": "4 p.m.-11 p.m.",
+    "Tuesday": "4 p.m.-11 p.m.",
+    "Wednesday": "4 p.m.-11 p.m.",
+    "Thursday": "4 p.m.-11 p.m.",
+    "Friday": "4 p.m.-12 a.m.",
+    "Saturday": "4 p.m.-12 a.m."
+  }
+    }

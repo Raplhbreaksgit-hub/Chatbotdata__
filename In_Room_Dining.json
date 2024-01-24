@@ -1,0 +1,21 @@
+{
+    "InRoomDining": {
+      "description": "Enjoy a variety of dining options without leaving the comfort of your room. Start the day off with our signature buttermilk pancakes or satisfy your evening cravings with crispy chicken fingers and seashore fries.",
+      "steps": [
+        "Step 1: Press the In-Room Dining button on the home screen.",
+        "Step 2: Add menu items to your cart and customize based on your preferences.",
+        "Step 3: Submit your order, await your contactless delivery and enjoy."
+      ],
+      "hoursOfOperation": {
+        "Brunch": {
+          "Days": "Daily",
+          "Time": "6 a.m.­–2 p.m."
+        },
+        "Dinner": {
+          "Days": "Daily",
+          "Time": "5–10 p.m."
+        }
+      }
+    }
+  }
+  

@@ -1,0 +1,201 @@
+{
+    "restaurant": "NIGHT SHIFT BREWING",
+    "Menu": {
+        "MAIN": {
+            "SHAREABLES": [
+                {"item": "Seashore Seasoned Fries", "price": 8},
+                {"item": "Truffle Popcorn", "price": 9},
+                {"item": "Kettle Chips & Dip", "price": 10, "description": "caramelized onion & smoked bacon dip"},
+                {"item": "Garlic & Herb Battered Cheese Curds", "price": 14, "description": "white cheddar cheese curds, parmesan, chipotle ranch"},
+                {"item": "Sweet & Spicy Brussel Sprouts", "price": 13, "description": "sweet chili sauce, scallion, lime crema"},
+                {"item": "Hummus", "price": 13, "description": "crispy chickpeas, local feta, roasted garlic, warm naan bread"},
+                {"item": "Queso Dip", "price": 14, "description": "creamy three cheese dip, chorizo, crispy tortilla chips"},
+                {"item": "Smoked Bacon & Vermont Cheddar Grilled Cheese", "price": 17, "description": "Aceto Balsamico, Parmesan Reggiano"},
+                {"item": "Buffalo Chicken Tenders", "price": 24, "description": "traditional buffalo sauce, pickled crudité, blue cheese dressing, seashore seasoned fries"},
+                {"item": "Nachos Grande", "price": 24, "description": "tortilla chips, queso sauce, black beans, guacamole, pickled jalapeños, scallions, pico de gallo, sour cream"},
+                {"item": "Double XL Pretzel", "price": 26,  "description": "Local Luck’ IPA cheese sauce, honey mustard, sweet pub butter"}
+              ]
+            },
+            "BEVERAGE": {
+                "ON_TAP": [
+                  {"name": "Nite Lite", "alcohol_percentage": 4.3, "price": 10, "type": "Light Lager"},
+                  {"name": "Fluffy", "alcohol_percentage": 7.0, "price": 12, "type": "NE IPA"},
+                  {"name": "Lime Lite", "alcohol_percentage": 4.3, "price": 9, "type": "Light Lager"},
+                  {"name": "The 87", "alcohol_percentage": 8.0, "price": 13, "type": "NE DIPA"},
+                  {"name": "Whirlpool", "alcohol_percentage": 4.5, "price": 12, "type": "NE Pale Ale"},
+                  {"name": "Haze Maze", "alcohol_percentage": 8.0, "price": 13, "type": "DDH DIPA"},
+                  {"name": "Santilli", "alcohol_percentage": 6.0, "price": 11, "type": "IPA"},
+                  {"name": "Sour Series", "alcohol_percentage": 13, "price": 13, "type": "Sour Ale"},
+                  {"name": "Local Luck", "alcohol_percentage": 5.7, "price": 12, "type": "NE IPA"},
+                  {"name": "Seasonal Piescraper", "alcohol_percentage": 12, "price": 12, "type": "Fruited Ale"}
+                ],
+                "LIMITED_RELEASE_ON_TAP": [
+                  {"name": "Owl I Want For Christmas", "alcohol_percentage": 5.3, "price": 12, "type": "Witbier"},
+                  {"name": "Citrus Santilli", "alcohol_percentage": 6.0, "price": 12, "type": "IPA"},
+                  {"name": "Awake", "alcohol_percentage": 6.0, "price": 13, "type": "Coffee Porter"},
+                  {"name": "Tis The Saison", "alcohol_percentage": 6.1, "price": 12, "type": "Saison"},
+                  {"name": "Harborside", "alcohol_percentage": 4.7, "price": 12, "type": "Sour"},
+                  {"name": "Owltoberfest", "alcohol_percentage": 5.0, "price": 12, "type": "Helles"},
+                  {"name": "Pumpkin Piescraper", "alcohol_percentage": 6.0, "price": 12, "type": "Fruited Ale"},
+                  {"name": "Teddie Bear", "alcohol_percentage": 5.8, "price": 13, "type": "Peanut Butter Porter"}
+                ],
+                "SPECIALTY_CANS": [
+                  {"name": "Hoot", "alcohol_percentage": 4.0, "price": 10, "type": "Hard Seltzer, Night Shift Brewing"},
+                  {"name": "Grapefruit", "alcohol_percentage": 5.5, "price": 12, "type": "Gluten-Free IPA, Ghostfish Brewing Co."},
+                  {"name": "Hoot Louder", "alcohol_percentage": 8.0, "price": 10, "type": "Hard Seltzer, Night Shift Brewing"},
+                  {"name": "Run Wild NA", "alcohol_percentage": 0.5, "price": 9, "type": "Non-Alcoholic, Athletic Brewing Co."},
+                  {"name": "Mass Appeal", "alcohol_percentage": 5.5, "price": 12, "type": "Cider, Stormalong"}
+                ],
+                "ON_TAP_ADDITIONAL": [
+                  {"name": "Cold Pizza", "alcohol_percentage": 5.5, "price": 12, "type": "Pilsner, Black Hog Brewing Co."},
+                  {"name": "Fiddle Head", "alcohol_percentage": 6.2, "price": 12, "type": "NE IPA, Fiddle Head Brewing Co."},
+                  {"name": "Big Wave", "alcohol_percentage": 4.4, "price": 12, "type": "Golden Ale, Kona Brewing Co."},
+                  {"name": "Citrazilla", "alcohol_percentage": 6.5, "price": 12, "type": "NE IPA, Broad Brook Brewing Co."},
+                  {"name": "Patina", "alcohol_percentage": 5.3, "price": 12, "type": "Pale Ale, Austin Street Brewery"},
+                  {"name": "Grey Lady", "alcohol_percentage": 6.8, "price": 9, "type": "Wheat Ale, Cisco Brewers"},
+                  {"name": "Lunch", "alcohol_percentage": 7.0, "price": 13, "type": "IPA, Maine Beer Co."},
+                  {"name": "Blue Moon", "alcohol_percentage": 5.4, "price": 9, "type": "Wheat Ale, Blue Moon Brewing Co."},
+                  {"name": "Northern Haze", "alcohol_percentage": 6.7, "price": 12, "type": "IPA, True North Ale Co."},
+                  {"name": "Blueberry Ale", "alcohol_percentage": 4.5, "price": 10, "type": "Fruited Ale, Wachusett Brewing Co."},
+                  {"name": "603 Double IPA", "alcohol_percentage": 8.5, "price": 12, "type": "DIPA, 603 Brewery"},
+                  {"name": "Seasonal Offering", "alcohol_percentage": null, "price": 11, "type": "Cider, Down East Cider Co."},
+                  {"name": "Sip Of Sunshine", "alcohol_percentage": 8.0, "price": 14, "type": "DIPA, Lawson's Finest Liquid"},
+                  {"name": "Seasonal Offering", "alcohol_percentage": null, "price": 9, "type": "Seasonal, Samuel Adams Brewery"},
+                  {"name": "Champ Lager", "alcohol_percentage": 5.0, "price": 11, "type": "Lager, Mast Landing Brewing Co."},
+                  {"name": "Del’s Shandy", "alcohol_percentage": 4.7, "price": 11, "type": "Shandy, Narragansett Brewing Co."},
+                  {"name": "Stella Artois", "alcohol_percentage": 5.0, "price": 11, "type": "Lager, Anheuser-Busch"},
+                  {"name": "Seasonal Sour Series", "alcohol_percentage": 12, "price": 12, "type": "Sour, True North Ale Co."},
+                  {"name": "Bud Light", "alcohol_percentage": 4.2, "price": 8, "type": "Light Lager, Anheuser-Busch"},
+                  {"name": "Ipswich Oatmeal Stout", "alcohol_percentage": 7.0, "price": 11, "type": "Stout, Ipswich Ale Brewery"}
+                ],
+                "BOTTLES_AND_CANS": [
+                  {"name": "Sluice Juice", "alcohol_percentage": 6.5, "price": 12, "type": "NE IPA, Bent Water Brewing Co."},
+                  {"name": "Heineken", "alcohol_percentage": 5.0, "price": 9, "type": "Pale Lager, Heineken N.V."},
+                  {"name": "Corona Extra", "alcohol_percentage": 4.6, "price": 9, "type": "Pale Lager, Cerveceria Modelo"}
+                ],
+                "COCKTAILS": [
+                  {"name": "Fast Lane", "price": 16, "ingredients": "New Amsterdam Raspberry Vodka, raspberry, house lemonade"},
+                  {"name": "Please Don’t Tell", "price": 17, "ingredients": "The Botanist Gin, honey, lemon, lavender"},
+                  {"name": "Is It Hot In Here?", "price": 17, "ingredients": "Casamigos Blanco Tequila, Ancho Reyes Chili Poblano Liqueur, passionfruit, lime, agave"},
+                  {"name": "Night Owl", "price": 18, "ingredients": "Rumson’s Spiced Rum, Pama Pomegranate Liqueur, plum bitters, chai, grapefruit, cranberry"},
+                  {"name": "Call It A Day", "price": 18, "ingredients": "Knob Creek Smoked Maple Bourbon, Flag Hill Maple Liqueur, Angostura Bitters, orange, cherry"},
+                  {"name": "The Bitter Truth", "price": 17, "ingredients": "Fortaleza Blanco Tequila, grapefruit, The 87 New England Double IPA"},
+                  {"name": "Beers On The Beach", "price": 17, "ingredients": "Green Mountain Organic Vodka, Peach Schnapps, orange, cranberry, Fluffinity IPA"}
+                ],
+                "SEASONAL_SIGNATURE_COCKTAILS": [
+                  {"name": "Northern Dream", "price": 20, "ingredients": "Northern Dream 20 Encore Maker’s Mark Private Selection 2022, chamomile, lemon, egg white"},
+                  {"name": "Royal Daisy", "price": 18, "ingredients": "Royal Daisy 18 ‘Encore Expression’ Patrón Reposado 2022, watermelon, habanero spiced agave, lime"}
+                ],
+                "MOCKTAILS": [
+                  {"name": "Dark Horse", "price": 10, "ingredients": "Kentucky 74 Non-Alcoholic Spirit, lemon, cinnamon, ginger beer"},
+                  {"name": "The Perfect Storm", "price": 10, "ingredients": "CleanCo Spiced Rum Non-Alcoholic, Angostura Bitters, orgeat, orange, lime, raspberry, pineapple"}
+                ],
+                "WINES": {
+                  "SPARKLING": [
+                    {"name": "Prosecco, Caposaldo, Italy", "vintage": "NV", "price": 13},
+                    {"name": "Champagne, Perrier-Jouët Grand Brut, Épernay, France", "vintage": "NV", "price": 24}
+                  ],
+                  "WHITE": [
+                    {"name": "Chardonnay, Bien Nacido, California", "vintage": "2016", "price": 23},
+                    {"name": "Chardonnay, Intercept, California", "vintage": "2021", "price": 15},
+                    {"name": "Pinot Grigio, Santa Margherita, Italy", "vintage": "2020", "price": 16},
+                    {"name": "Sauvignon Blanc, Astrolabe, Marlborough, Australia", "vintage": "2020", "price": 14}
+                  ],
+                  "ROSÉ": [
+                    {"name": "Chateau D’Esclans, Whispering Angel, France", "vintage": "2019", "price": 14}
+                  ],
+                  "RED": [
+                    {"name": "Pinot Noir, Decoy, California", "vintage": "2017", "price": 16},
+                    {"name": "Merlot, L’Ecole 41, Washington", "vintage": "2016", "price": 15},
+                    {"name": "Cabernet Sauvignon, Justin, California", "vintage": "2018", "price": 17}
+                  ]
+                }
+            },
+            "SPIRITS": {
+                "TEQUILA": [
+                  {"name": "Casamigos Blanco", "price": 15},
+                  {"name": "Casamigos Reposado", "price": 17},
+                  {"name": "Casamigos Anejo", "price": 17},
+                  {"name": "Clase Azul Plata", "price": 21},
+                  {"name": "Clase Azul Reposado", "price": 28},
+                  {"name": "Clase Azul Anejo", "price": 75},
+                  {"name": "Clase Azul Mezcal Durango", "price": 65},
+                  {"name": "Don Julio Blanco", "price": 18},
+                  {"name": "Don Julio Reposado", "price": 18},
+                  {"name": "Don Julio Anejo", "price": 19},
+                  {"name": "Don Julio 1942", "price": 36}
+                ],
+                "WHISKEY": {
+                  "BOURBON": [
+                    {"name": "Berkshire", "price": 14},
+                    {"name": "Blanton’s", "price": null},
+                    {"name": "Bulleit", "price": 14},
+                    {"name": "Hillrock Solera Aged", "price": 18},
+                    {"name": "Hudson Baby Bourbon", "price": 16},
+                    {"name": "Mad River", "price": 13},
+                    {"name": "Nor’easter", "price": 15},
+                    {"name": "Makers Mark", "price": 14},
+                    {"name": "William Larue Weller", "price": 70},
+                    {"name": "Woodford Reserve", "price": 14}
+                  ],
+                  "IRISH": [
+                    {"name": "Jameson", "price": 14},
+                    {"name": "Prizefight", "price": 12},
+                    {"name": "South Boston", "price": 10}
+                  ],
+                  "RYE": [
+                    {"name": "Bulleit", "price": 14},
+                    {"name": "Putnam New England", "price": 12},
+                    {"name": "Sazerac", "price": 12},
+                    {"name": "WhistlePig Aged 10 Years", "price": 17},
+                    {"name": "WhistlePig Old World", "price": 30},
+                    {"name": "Aged 12 Years ‘Encore Edition’", "price": null},
+                    {"name": "WhistlePig Boss Hog V", "price": 85, "description": "The Spirit of Mauve"}
+                  ],
+                  "SCOTCH": {
+                    "SINGLE_MALT": [
+                      {"name": "GlenFiddich 12 Years Old", "price": 15},
+                      {"name": "GlenLivet 12 Years Of Age", "price": 15},
+                      {"name": "Lagavulin Aged 12 Years", "price": 18},
+                      {"name": "The Macallan Sherry Oak 12 Years Old", "price": 21},
+                      {"name": "The Macallan Sherry Oak 18 Years Old", "price": 12}
+                    ],
+                    "BLENDED": [
+                      {"name": "Copper Dog", "price": 12},
+                      {"name": "Johnnie Walker Black Label", "price": 15},
+                      {"name": "Johnnie Walker Blue Label", "price": 75},
+                      {"name": "Monkey Shoulder", "price": 13}
+                    ]
+                  }
+                },
+                "COGNAC": [
+                  {"name": "Hennessy VS", "price": 16},
+                  {"name": "Hennessy X.O.", "price": 57},
+                  {"name": "Rémy Martin VSOP", "price": 16},
+                  {"name": "Rémy Martin XO", "price": 57}
+                ],
+                "GIN": [
+                  {"name": "Bombay Sapphire", "price": 14},
+                  {"name": "Bully Boy Estate", "price": 11},
+                  {"name": "Bully Boy Prive", "price": 12},
+                  {"name": "Hendricks", "price": 15},
+                  {"name": "Short Path", "price": 12},
+                  {"name": "The Botanist", "price": 15}
+                ],
+                "RUM": [
+                  {"name": "Bacardi Superior", "price": 14},
+                  {"name": "Captain Morgan", "price": 14},
+                  {"name": "Rumson Grand Reserve", "price": 13},
+                  {"name": "Rumson Spiced", "price": 11}
+                ]
+          },
+          "contact": {
+            "phone": "(857) 770-3463",
+            "location": "1 Broadway, Everett, MA 02149"
+          },
+          "hours": {
+            "Friday": "5-11 p.m.",
+            "Saturday": "5-11 p.m."
+          }  
+        }  
+      }       

@@ -1,0 +1,202 @@
+{
+"restaurant": "SHAKE SHAKE",
+"Menu": {
+    "main": {
+        "BURGER": [
+            {
+              "name": "ShackBurger®",
+              "types": [
+                {
+                  "type": "Single",
+                  "price": 6.39,
+                  "calories": 500,
+                  "description": "Cheeseburger with lettuce, tomato, ShackSauce"
+                },
+                {
+                  "type": "Double",
+                  "price": 8.99,
+                  "calories": 760
+                }
+              ]
+            },
+            {
+              "name": "SmokeShack®",
+              "types": [
+                {
+                  "type": "Single",
+                  "price": 7.89,
+                  "calories": 570,
+                  "description": "Cheeseburger with Niman Ranch applewood-smoked bacon, cherry peppers, ShackSauce"
+                },
+                {
+                  "type": "Double",
+                  "price": 10.69,
+                  "calories": 830
+                }
+              ]
+            },
+            {
+              "name": "Shack Stack®",
+              "price": 10.99,
+              "calories": 770,
+              "description": "Cheeseburger topped with a ‘Shroom Burger with lettuce, tomato, ShackSauce"
+            },
+            {
+              "name": "‘Shroom Burger",
+              "type": "vegetarian",
+              "price": 8.09,
+              "calories": 510,
+              "description": "Crisp-fried portobello mushroom filled with melted muenster and cheddar cheese, topped with lettuce, tomato, ShackSauce"
+            },
+            {
+              "name": "Hamburger",
+              "types": [
+                {
+                  "type": "Single",
+                  "price": 5.89,
+                  "calories": 500,
+                  "description": "Griddled patty and your choice of toppings"
+                },
+                {
+                  "type": "Double",
+                  "price": 7.99,
+                  "calories": 760
+                }
+              ],
+              "options": {
+                "Add Niman Ranch applewood-smoked bacon": 1.95,
+                "GF Gluten-free bun": 1.00
+              }
+            }
+          ],
+          "CHICKEN": [
+            {
+              "name": "Chicken Shack™",
+              "price": 7.59,
+              "calories": 550,
+              "description": "Crispy chicken breast topped with lettuce, pickles, buttermilk herb mayo"
+            }
+          ],
+          "CRINKLE CUT FRIES": [
+            {
+              "name": "Fries",
+              "price": 3.25,
+              "calories": 470
+            },
+            {
+              "name": "Cheese Fries",
+              "price": 4.25,
+              "calories": 710,
+              "description": "Topped with our cheese sauce"
+            },
+            {
+              "name": "Bacon Cheese Fries",
+              "price": 5.25,
+              "calories": 840,
+              "description": "Topped with our cheese sauce and Niman Ranch applewood-smoked bacon"
+            }
+          ],
+          "SHAKES AND CUSTARD": {
+            "classic_shakes": {
+              "name": "Classic Shakes",
+              "price": 5.69,
+              "calories": {
+                "min": 680,
+                "max": 850
+              },
+              "description": "Hand-spun every single time",
+              "options": [
+                {
+                  "name": "Make it malted",
+                  "price": 0.50,
+                  "calories": 90
+                },
+                {
+                  "name": "Add whipped cream",
+                  "price": 0.50,
+                  "calories": 70
+                }
+              ]
+            },
+            "floats": {
+              "name": "Floats",
+              "price": 5.69,
+              "calories": {
+                "min": 430,
+                "max": 460
+              },
+              "options": ["Root beer", "Purple Cow", "Creamsicle®"]
+            },
+            "cups": [
+              {
+                "name": "Single",
+                "price": 4.29,
+                "calories": {
+                  "min": 280,
+                  "max": 310
+                }
+              },
+              {
+                "name": "Double",
+                "price": 5.39,
+                "calories": {
+                  "min": 450,
+                  "max": 490
+                }
+              }
+            ]
+          },
+            "DRINKS": {
+              "limited_time_lemonade": {
+                "name": "Limited-Time Lemonade",
+                "sizes": {
+                  "S": 3.79,
+                  "L": 4.69
+                },
+                "calories": {
+                  "min": 130,
+                  "max": 350
+                }
+              },
+              "fifty_fifty": {
+                "name": "Fifty/Fifty™",
+                "prices": {
+                  "S": 3.79,
+                  "L": 4.69
+                },
+                "calories": {
+                  "min": 80,
+                  "max": 200
+                }
+              },
+              "fresh_lemonade": {
+                "name": "Fresh Lemonade",
+                "sizes": {
+                  "S": 3.49,
+                  "L": 4.39
+                },
+                "calories": 130
+              },
+              "shack_sweetened_lemonade": {
+                "name": "Shack-made and Sweetened Lemonade",
+                "sizes": {
+                  "S": 3.49,
+                  "L": 4.39
+                },
+                "calories": 220
+              },
+              "fifty_fifty_iced_tea": {
+                "name": "Fifty/Fifty™ (Half lemonade, half organic iced tea)",
+                "sizes": {
+                  "S": 3.49,
+                  "L": 4.39
+                },
+                "calories": {
+                  "min": 70,
+                  "max": 110
+                }
+              }
+            }
+        }
+    }
+}    
